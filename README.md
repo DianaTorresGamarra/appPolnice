@@ -1,7 +1,7 @@
-#Prototipos del proyecto Polnice
+# Prototipos del proyecto Polnice
 https://www.figma.com/file/VG0qcGDGiEVhh8ZHGCSNph/INICIO?node-id=0%3A1
 
-#Pasos usados para esta APP
+# Pasos usados para esta APP
 git clone https://github.com/DianaTorresGamarra/appPolnice
 cd appPolnice
 dotnet new mvc --auth Individual
