@@ -22,7 +22,7 @@ namespace appPolnice.Migrations
 
             NpgsqlModelBuilderExtensions.UseIdentityByDefaultColumns(modelBuilder);
 
-            modelBuilder.Entity("appPolnice.Models.Contacto", b =>
+            modelBuilder.Entity("appPolnice.Models.Producto", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
@@ -58,7 +58,7 @@ namespace appPolnice.Migrations
                     b.ToTable("t_contacto");
                 });
 
-            modelBuilder.Entity("appPolnice.Models.Producto", b =>
+            modelBuilder.Entity("appPolnice.Models.Contacto", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
