@@ -26,9 +26,10 @@ namespace appPolnice.Controllers
     }
 
     [HttpPost]
-     public IActionResult Create(Contactos objcontactos)
+     public IActionResult Create(Contactos objContactos)
+     
     {
-        _context.Add(objcontactos);
+        _context.Add(objContactos);
         _context.SaveChanges();
         ViewData["Message"] = "Se registro el contacto";
         return View("Index");
