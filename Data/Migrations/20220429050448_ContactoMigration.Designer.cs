@@ -12,7 +12,7 @@ using appPolnice.Data;
 namespace appPolnice.Data.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20220428062000_ContactoMigration")]
+    [Migration("20220429050448_ContactoMigration")]
     partial class ContactoMigration
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)

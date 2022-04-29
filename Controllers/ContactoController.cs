@@ -3,15 +3,20 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
+using appPolnice.Models;
+using appPolnice.Data;
 
 namespace appPolnice.Controllers
 {
     public class ContactoController: Controller
     {
-        private readonly ILogger<HomeController> _logger;
+        private readonly ILogger<ContactoController> _logger;
+        private readonly ApplicationDbContext _context;
 
-    public ContactoController(ILogger<HomeController> logger)
+    public ContactoController(ApplicationDbContext context, 
+    ILogger<ContactoController> logger)
     {
+        _context = context;
         _logger = logger;
     }
 
@@ -20,12 +25,15 @@ namespace appPolnice.Controllers
         return View();
     }
 
-     public IActionResult Create()
+    [HttpPost]
+     public IActionResult Create(Contactos objcontactos)
     {
+        _context.Add(objcontactos);
+        _context.SaveChanges();
+        ViewData["Message"] = "Se registro el contacto";
         return View("Index");
     }
 
-    
-
+  
     }
 }
