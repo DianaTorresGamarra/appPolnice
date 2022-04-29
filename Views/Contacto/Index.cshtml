@@ -1,0 +1,29 @@
+@model appPolnice.Models.Contactos
+
+@{
+    ViewData["Title"] = "Contactos";
+}
+<h1>@ViewData["Title"]</h1>
+y
+<div class="text-center">
+    <h1 class="display-4">Contactenos</h1>
+
+    <form asp-controller="Contactos" asp-action="Create">
+        <label asp-for="Nombre" class="form-label"></label>
+        <input asp-for="Nombre" class="form-control form-control-sm" type="text" placeholder="Escribe un nombre" aria-label=".form-control-sm" />
+
+        <label asp-for="Correo" class="control-label"></label>
+        <input asp-for="Correo" class="form-control" />
+
+        <label asp-for="Mensaje" class="control-label"></label>
+        <input asp-for="Mensaje" class="form-control" />
+
+        <div class="form-group">
+            <button type="submit" class="btn btn-primary">Enviar</button> 
+        </div>              
+    </form>
+    <h1>@ViewData["Message"]</h1>
+    <div>
+        <a asp-action="Index">Back to List</a>
+    </div>
+</div>

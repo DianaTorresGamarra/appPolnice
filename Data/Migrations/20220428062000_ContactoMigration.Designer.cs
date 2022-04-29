@@ -9,11 +9,11 @@ using appPolnice.Data;
 
 #nullable disable
 
-namespace appPolnice.Migrations
+namespace appPolnice.Data.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20220426194905_ProductoMigration")]
-    partial class ProductoMigration
+    [Migration("20220428062000_ContactoMigration")]
+    partial class ContactoMigration
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
@@ -24,7 +24,7 @@ namespace appPolnice.Migrations
 
             NpgsqlModelBuilderExtensions.UseIdentityByDefaultColumns(modelBuilder);
 
-            modelBuilder.Entity("appPolnice.Models.Contacto", b =>
+            modelBuilder.Entity("appPolnice.Models.Contactos", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
@@ -33,27 +33,20 @@ namespace appPolnice.Migrations
 
                     NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<int>("Id"));
 
-                    b.Property<string>("Comment")
+                    b.Property<string>("Correo")
                         .IsRequired()
                         .HasColumnType("text")
-                        .HasColumnName("comment");
+                        .HasColumnName("Correo");
 
-                    b.Property<string>("Email")
+                    b.Property<string>("Mensaje")
                         .IsRequired()
-                        .ValueGeneratedOnUpdateSometimes()
                         .HasColumnType("text")
-                        .HasColumnName("name");
+                        .HasColumnName("Mensaje");
 
-                    b.Property<string>("Name")
-                        .IsRequired()
-                        .ValueGeneratedOnUpdateSometimes()
-                        .HasColumnType("text")
-                        .HasColumnName("name");
-
-                    b.Property<string>("Subject")
+                    b.Property<string>("Nombre")
                         .IsRequired()
                         .HasColumnType("text")
-                        .HasColumnName("subject");
+                        .HasColumnName("Nombre");
 
                     b.HasKey("Id");
 
@@ -72,12 +65,20 @@ namespace appPolnice.Migrations
                         .IsRequired()
                         .HasColumnType("text");
 
+                    b.Property<string>("ImageName")
+                        .IsRequired()
+                        .HasColumnType("text");
+
                     b.Property<string>("Name")
                         .IsRequired()
                         .HasColumnType("text");
 
                     b.Property<decimal>("Precio")
                         .HasColumnType("numeric");
+
+                    b.Property<string>("Status")
+                        .IsRequired()
+                        .HasColumnType("text");
 
                     b.HasKey("Id");
 

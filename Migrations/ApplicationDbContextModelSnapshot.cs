@@ -22,7 +22,7 @@ namespace appPolnice.Migrations
 
             NpgsqlModelBuilderExtensions.UseIdentityByDefaultColumns(modelBuilder);
 
-            modelBuilder.Entity("appPolnice.Models.Producto", b =>
+            modelBuilder.Entity("appPolnice.Models.Contactos", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
@@ -31,34 +31,27 @@ namespace appPolnice.Migrations
 
                     NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<int>("Id"));
 
-                    b.Property<string>("Comment")
+                    b.Property<string>("Correo")
                         .IsRequired()
                         .HasColumnType("text")
-                        .HasColumnName("comment");
+                        .HasColumnName("Correo");
 
-                    b.Property<string>("Email")
+                    b.Property<string>("Mensaje")
                         .IsRequired()
-                        .ValueGeneratedOnUpdateSometimes()
                         .HasColumnType("text")
-                        .HasColumnName("name");
+                        .HasColumnName("Mensaje");
 
-                    b.Property<string>("Name")
-                        .IsRequired()
-                        .ValueGeneratedOnUpdateSometimes()
-                        .HasColumnType("text")
-                        .HasColumnName("name");
-
-                    b.Property<string>("Subject")
+                    b.Property<string>("Nombre")
                         .IsRequired()
                         .HasColumnType("text")
-                        .HasColumnName("subject");
+                        .HasColumnName("Nombre");
 
                     b.HasKey("Id");
 
                     b.ToTable("t_contacto");
                 });
 
-            modelBuilder.Entity("appPolnice.Models.Contacto", b =>
+            modelBuilder.Entity("appPolnice.Models.Producto", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
