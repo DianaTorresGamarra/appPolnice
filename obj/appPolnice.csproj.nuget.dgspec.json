@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\code\\2022\\appPolnice\\appPolnice.csproj": {}
+    "c:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\appPolnice.csproj": {}
   },
   "projects": {
-    "C:\\code\\2022\\appPolnice\\appPolnice.csproj": {
+    "c:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\appPolnice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\code\\2022\\appPolnice\\appPolnice.csproj",
+        "projectUniqueName": "c:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\appPolnice.csproj",
         "projectName": "appPolnice",
-        "projectPath": "C:\\code\\2022\\appPolnice\\appPolnice.csproj",
-        "packagesPath": "C:\\Users\\diana\\.nuget\\packages\\",
-        "outputPath": "C:\\code\\2022\\appPolnice\\obj\\",
+        "projectPath": "c:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\appPolnice.csproj",
+        "packagesPath": "C:\\Users\\marca\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\diana\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\marca\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -85,7 +85,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
