@@ -4,9 +4,9 @@ using Npgsql.EntityFrameworkCore.PostgreSQL.Metadata;
 
 #nullable disable
 
-namespace appPolnice.Migrations
+namespace appPolnice.Data.Migrations
 {
-    public partial class InitialMigration : Migration
+    public partial class ContactMigration : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {
@@ -53,14 +53,32 @@ namespace appPolnice.Migrations
                 name: "t_contacto",
                 columns: table => new
                 {
-                    id = table.Column<string>(type: "text", nullable: false),
-                    email = table.Column<string>(type: "text", nullable: false),
+                    id = table.Column<int>(type: "integer", nullable: false)
+                        .Annotation("Npgsql:ValueGenerationStrategy", NpgsqlValueGenerationStrategy.IdentityByDefaultColumn),
+                    name = table.Column<string>(type: "text", nullable: false),
                     subject = table.Column<string>(type: "text", nullable: false),
                     comment = table.Column<string>(type: "text", nullable: false)
                 },
                 constraints: table =>
                 {
                     table.PrimaryKey("PK_t_contacto", x => x.id);
+                });
+
+            migrationBuilder.CreateTable(
+                name: "t_producto",
+                columns: table => new
+                {
+                    Id = table.Column<int>(type: "integer", nullable: false)
+                        .Annotation("Npgsql:ValueGenerationStrategy", NpgsqlValueGenerationStrategy.IdentityByDefaultColumn),
+                    Name = table.Column<string>(type: "text", nullable: false),
+                    Descripcion = table.Column<string>(type: "text", nullable: false),
+                    Precio = table.Column<decimal>(type: "numeric", nullable: false),
+                    ImageName = table.Column<string>(type: "text", nullable: false),
+                    Status = table.Column<string>(type: "text", nullable: false)
+                },
+                constraints: table =>
+                {
+                    table.PrimaryKey("PK_t_producto", x => x.Id);
                 });
 
             migrationBuilder.CreateTable(
@@ -226,6 +244,9 @@ namespace appPolnice.Migrations
 
             migrationBuilder.DropTable(
                 name: "t_contacto");
+
+            migrationBuilder.DropTable(
+                name: "t_producto");
 
             migrationBuilder.DropTable(
                 name: "AspNetRoles");

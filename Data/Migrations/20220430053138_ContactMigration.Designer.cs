@@ -9,11 +9,11 @@ using appPolnice.Data;
 
 #nullable disable
 
-namespace appPolnice.Migrations
+namespace appPolnice.Data.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20220426202842_AddColumContactMigration")]
-    partial class AddColumContactMigration
+    [Migration("20220430053138_ContactMigration")]
+    partial class ContactMigration
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
