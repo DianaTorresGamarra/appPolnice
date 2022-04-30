@@ -38,13 +38,11 @@ namespace appPolnice.Data.Migrations
 
                     b.Property<string>("Email")
                         .IsRequired()
-                        .ValueGeneratedOnUpdateSometimes()
                         .HasColumnType("text")
-                        .HasColumnName("name");
+                        .HasColumnName("email");
 
                     b.Property<string>("Name")
                         .IsRequired()
-                        .ValueGeneratedOnUpdateSometimes()
                         .HasColumnType("text")
                         .HasColumnName("name");
 

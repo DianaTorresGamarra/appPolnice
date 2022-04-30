@@ -1,7 +1,7 @@
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 
 using Microsoft.EntityFrameworkCore;
-
+using appPolnice.Models;
 
 
 namespace appPolnice.Data;
