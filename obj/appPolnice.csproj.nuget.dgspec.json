@@ -2,6 +2,23 @@
   "format": 1,
   "restore": {
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+    "c:\\Users\\User\\Desktop\\APP\\appPolnice\\appPolnice.csproj": {}
+  },
+  "projects": {
+    "c:\\Users\\User\\Desktop\\APP\\appPolnice\\appPolnice.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\User\\Desktop\\APP\\appPolnice\\appPolnice.csproj",
+        "projectName": "appPolnice",
+        "projectPath": "c:\\Users\\User\\Desktop\\APP\\appPolnice\\appPolnice.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\User\\Desktop\\APP\\appPolnice\\obj\\",
+=======
+<<<<<<< HEAD
+    "C:\\code\\2022\\appPolnice\\appPolnice.csproj": {}
+>>>>>>> 2de0fc03d32f8a1315f5cb333afc38a590b6607a
 =======
 <<<<<<< HEAD
     "c:\\Users\\User\\Desktop\\APP\\appPolnice\\appPolnice.csproj": {}
@@ -38,6 +55,9 @@
 >>>>>>> 30918d761e7526719f83b55c7860c372a2afc10a
 >>>>>>> b847918ab479aa6a06c3b281399faa12c35c23f7
 >>>>>>> 5d063fcfcd084a0565e8bd20d32be3f08d43f180
+<<<<<<< HEAD
+>>>>>>> 2de0fc03d32f8a1315f5cb333afc38a590b6607a
+=======
 >>>>>>> 2de0fc03d32f8a1315f5cb333afc38a590b6607a
         "projectStyle": "PackageReference",
         "configFilePaths": [

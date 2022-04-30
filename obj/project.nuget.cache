@@ -1,6 +1,11 @@
 {
   "version": 2,
 <<<<<<< HEAD
+  "dgSpecHash": "H/GuKCGHzDwNwr8jrUnPHeAB6QGnuzxDAciEyOsb60lkP7xckKswMo3xfkJBc/XEqTfaOOneWNXyF4PI9SUiDQ==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\User\\Desktop\\APP\\appPolnice\\appPolnice.csproj",
+=======
+<<<<<<< HEAD
   "dgSpecHash": "eV/j43FBqNALWuxA6teIsy6+VRoElU7H5IJua12YslQFrqmiOrWS5UYnaTsQvEXWahzKU0KDDDX8j+GqeIc8lQ==",
   "success": true,
   "projectFilePath": "C:\\code\\2022\\appPolnice\\appPolnice.csproj",
@@ -26,6 +31,9 @@
 >>>>>>> 30918d761e7526719f83b55c7860c372a2afc10a
 >>>>>>> b847918ab479aa6a06c3b281399faa12c35c23f7
 >>>>>>> 5d063fcfcd084a0565e8bd20d32be3f08d43f180
+<<<<<<< HEAD
+>>>>>>> 2de0fc03d32f8a1315f5cb333afc38a590b6607a
+=======
 >>>>>>> 2de0fc03d32f8a1315f5cb333afc38a590b6607a
   "expectedPackageFiles": [
     "C:\\Users\\diana\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
