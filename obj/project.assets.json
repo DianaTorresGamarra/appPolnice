@@ -9926,19 +9926,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\marca\\.nuget\\packages\\": {}
+    "C:\\Users\\User\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\appPolnice.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\APP\\appPolnice\\appPolnice.csproj",
       "projectName": "appPolnice",
-      "projectPath": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\appPolnice.csproj",
-      "packagesPath": "C:\\Users\\marca\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\obj\\",
+      "projectPath": "C:\\Users\\User\\Desktop\\APP\\appPolnice\\appPolnice.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\APP\\appPolnice\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\marca\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"

@@ -18,9 +18,9 @@ namespace appPolnice.Models
 
        public int Id { get; set;}
        [Column("name")]
-
        public string Name { get; set;}
-       [Column("name")]
+
+       [Column("email")]
        public string Email { get; set;}
        [Column("subject")]
        
