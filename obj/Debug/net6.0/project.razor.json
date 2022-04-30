@@ -16348,6 +16348,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\User\\Desktop\\APP\\appPolnice\\Views\\Nosotros\\Index.cshtml",
+      "TargetPath": "Views\\Nosotros\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\User\\Desktop\\APP\\appPolnice\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
       "TargetPath": "Areas\\Identity\\Pages\\_ViewImports.cshtml",
       "FileKind": "mvc"
