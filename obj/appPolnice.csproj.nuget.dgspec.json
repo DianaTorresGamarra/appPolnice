@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "c:\\Users\\User\\Desktop\\APP\\appPolnice\\appPolnice.csproj": {}
   },
   "projects": {
@@ -12,9 +13,46 @@
         "projectPath": "c:\\Users\\User\\Desktop\\APP\\appPolnice\\appPolnice.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
         "outputPath": "c:\\Users\\User\\Desktop\\APP\\appPolnice\\obj\\",
+=======
+<<<<<<< HEAD
+    "C:\\code\\2022\\appPolnice\\appPolnice.csproj": {}
+=======
+<<<<<<< HEAD
+    "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\appPolnice.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\appPolnice.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\appPolnice.csproj",
+        "projectName": "appPolnice",
+        "projectPath": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\appPolnice.csproj",
+        "packagesPath": "C:\\Users\\marca\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\obj\\",
+=======
+    "C:\\Users\\User\\Desktop\\APP\\appPolnice\\appPolnice.csproj": {}
+>>>>>>> b847918ab479aa6a06c3b281399faa12c35c23f7
+  },
+  "projects": {
+    "C:\\code\\2022\\appPolnice\\appPolnice.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\code\\2022\\appPolnice\\appPolnice.csproj",
+        "projectName": "appPolnice",
+<<<<<<< HEAD
+        "projectPath": "C:\\code\\2022\\appPolnice\\appPolnice.csproj",
+        "packagesPath": "C:\\Users\\diana\\.nuget\\packages\\",
+        "outputPath": "C:\\code\\2022\\appPolnice\\obj\\",
+=======
+        "projectPath": "C:\\Users\\User\\Desktop\\APP\\appPolnice\\appPolnice.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\APP\\appPolnice\\obj\\",
+>>>>>>> 30918d761e7526719f83b55c7860c372a2afc10a
+>>>>>>> b847918ab479aa6a06c3b281399faa12c35c23f7
+>>>>>>> 5d063fcfcd084a0565e8bd20d32be3f08d43f180
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\diana\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -85,7 +123,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
