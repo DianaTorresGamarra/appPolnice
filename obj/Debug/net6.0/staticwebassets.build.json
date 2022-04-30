@@ -1,6 +1,10 @@
 {
   "Version": 1,
+<<<<<<< HEAD
+  "Hash": "MAUyXOO4xwrpEP80YdWopNtZlx0qKui8OoQFMkS2aJs=",
+=======
   "Hash": "zawpAPXAgfVZU/Tefcz9wi3sWTNYxRp0h8FHuY4FGOQ=",
+>>>>>>> 5d063fcfcd084a0565e8bd20d32be3f08d43f180
   "Source": "appPolnice",
   "BasePath": "_content/appPolnice",
   "Mode": "Default",
@@ -85,7 +89,79 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\User\\Desktop\\APP\\appPolnice\\wwwroot\\images\\F1.jpg",
+      "SourceId": "appPolnice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\APP\\appPolnice\\wwwroot\\",
+      "BasePath": "_content/appPolnice",
+      "RelativePath": "images/F1.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\F1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\APP\\appPolnice\\wwwroot\\images\\F2.jpg",
+      "SourceId": "appPolnice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\APP\\appPolnice\\wwwroot\\",
+      "BasePath": "_content/appPolnice",
+      "RelativePath": "images/F2.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\F2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\APP\\appPolnice\\wwwroot\\images\\F3.jpg",
+      "SourceId": "appPolnice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\APP\\appPolnice\\wwwroot\\",
+      "BasePath": "_content/appPolnice",
+      "RelativePath": "images/F3.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\F3.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\APP\\appPolnice\\wwwroot\\images\\F4.jpg",
+      "SourceId": "appPolnice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\APP\\appPolnice\\wwwroot\\",
+      "BasePath": "_content/appPolnice",
+      "RelativePath": "images/F4.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\F4.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\APP\\appPolnice\\wwwroot\\images\\imagen1.JPG",
+=======
       "Identity": "C:\\code\\2022\\appPolnice\\wwwroot\\images\\imagen1.JPG",
+>>>>>>> 5d063fcfcd084a0565e8bd20d32be3f08d43f180
       "SourceId": "appPolnice",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\code\\2022\\appPolnice\\wwwroot\\",
@@ -1275,7 +1351,45 @@
       "OriginalItemSpec": "wwwroot\\images\\imagen9.JPG"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\User\\Desktop\\APP\\appPolnice\\wwwroot\\images\\logo.jpg",
+      "SourceId": "appPolnice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\APP\\appPolnice\\wwwroot\\",
+      "BasePath": "_content/appPolnice",
+      "RelativePath": "images/logo.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\logo.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\APP\\appPolnice\\wwwroot\\images\\logoP.png",
+      "SourceId": "appPolnice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\APP\\appPolnice\\wwwroot\\",
+      "BasePath": "_content/appPolnice",
+      "RelativePath": "images/logoP.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\logoP.png"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\APP\\appPolnice\\wwwroot\\js\\site.js",
+=======
       "Identity": "C:\\code\\2022\\appPolnice\\wwwroot\\js\\site.js",
+>>>>>>> 5d063fcfcd084a0565e8bd20d32be3f08d43f180
       "SourceId": "appPolnice",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\code\\2022\\appPolnice\\wwwroot\\",
