@@ -1,6 +1,14 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "Hash": "S0QqRMRzyrfGKmQrIEjYVwuEhOlWI5tFcPjGZjjpSTE=",
+=======
+<<<<<<< HEAD
+  "Hash": "MAUyXOO4xwrpEP80YdWopNtZlx0qKui8OoQFMkS2aJs=",
+=======
+  "Hash": "zawpAPXAgfVZU/Tefcz9wi3sWTNYxRp0h8FHuY4FGOQ=",
+>>>>>>> 5d063fcfcd084a0565e8bd20d32be3f08d43f180
+>>>>>>> f9d49446e22249a439dc7490c4796654d6172518
   "Source": "appPolnice",
   "BasePath": "_content/appPolnice",
   "Mode": "Default",
@@ -10,13 +18,18 @@
     {
       "Name": "appPolnice\\wwwroot",
       "Source": "appPolnice",
+<<<<<<< HEAD
       "ContentRoot": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\",
+=======
+      "ContentRoot": "C:\\code\\2022\\appPolnice\\wwwroot\\",
+>>>>>>> f9d49446e22249a439dc7490c4796654d6172518
       "BasePath": "_content/appPolnice",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\marca\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\css\\site.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
@@ -1041,6 +1054,12 @@
       "SourceId": "appPolnice",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+=======
+      "Identity": "C:\\code\\2022\\appPolnice\\obj\\Debug\\net6.0\\scopedcss\\bundle\\appPolnice.styles.css",
+      "SourceId": "appPolnice",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\code\\2022\\appPolnice\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+>>>>>>> f9d49446e22249a439dc7490c4796654d6172518
       "BasePath": "_content/appPolnice",
       "RelativePath": "appPolnice.styles.css",
       "AssetKind": "All",
@@ -1051,6 +1070,7 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\obj\\Debug\\net6.0\\scopedcss\\bundle\\appPolnice.styles.css"
     },
     {
@@ -1058,6 +1078,15 @@
       "SourceId": "appPolnice",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+=======
+      "OriginalItemSpec": "C:\\code\\2022\\appPolnice\\obj\\Debug\\net6.0\\scopedcss\\bundle\\appPolnice.styles.css"
+    },
+    {
+      "Identity": "C:\\code\\2022\\appPolnice\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\appPolnice.bundle.scp.css",
+      "SourceId": "appPolnice",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\code\\2022\\appPolnice\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+>>>>>>> f9d49446e22249a439dc7490c4796654d6172518
       "BasePath": "_content/appPolnice",
       "RelativePath": "appPolnice.bundle.scp.css",
       "AssetKind": "All",
@@ -1068,6 +1097,7 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\appPolnice.bundle.scp.css"
     },
     {
@@ -1075,6 +1105,15 @@
       "SourceId": "appPolnice",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\",
+=======
+      "OriginalItemSpec": "C:\\code\\2022\\appPolnice\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\appPolnice.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\code\\2022\\appPolnice\\wwwroot\\css\\site.css",
+      "SourceId": "appPolnice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\code\\2022\\appPolnice\\wwwroot\\",
+>>>>>>> f9d49446e22249a439dc7490c4796654d6172518
       "BasePath": "_content/appPolnice",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -1088,10 +1127,17 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\favicon.ico",
       "SourceId": "appPolnice",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\",
+=======
+      "Identity": "C:\\code\\2022\\appPolnice\\wwwroot\\favicon.ico",
+      "SourceId": "appPolnice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\code\\2022\\appPolnice\\wwwroot\\",
+>>>>>>> f9d49446e22249a439dc7490c4796654d6172518
       "BasePath": "_content/appPolnice",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -1105,10 +1151,86 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\images\\imagen1.JPG",
+=======
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\User\\Desktop\\APP\\appPolnice\\wwwroot\\images\\F1.jpg",
+>>>>>>> f9d49446e22249a439dc7490c4796654d6172518
       "SourceId": "appPolnice",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\",
+      "BasePath": "_content/appPolnice",
+      "RelativePath": "images/F1.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\F1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\APP\\appPolnice\\wwwroot\\images\\F2.jpg",
+      "SourceId": "appPolnice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\APP\\appPolnice\\wwwroot\\",
+      "BasePath": "_content/appPolnice",
+      "RelativePath": "images/F2.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\F2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\APP\\appPolnice\\wwwroot\\images\\F3.jpg",
+      "SourceId": "appPolnice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\APP\\appPolnice\\wwwroot\\",
+      "BasePath": "_content/appPolnice",
+      "RelativePath": "images/F3.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\F3.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\APP\\appPolnice\\wwwroot\\images\\F4.jpg",
+      "SourceId": "appPolnice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\APP\\appPolnice\\wwwroot\\",
+      "BasePath": "_content/appPolnice",
+      "RelativePath": "images/F4.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\F4.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\APP\\appPolnice\\wwwroot\\images\\imagen1.JPG",
+=======
+      "Identity": "C:\\code\\2022\\appPolnice\\wwwroot\\images\\imagen1.JPG",
+>>>>>>> 5d063fcfcd084a0565e8bd20d32be3f08d43f180
+      "SourceId": "appPolnice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\code\\2022\\appPolnice\\wwwroot\\",
       "BasePath": "_content/appPolnice",
       "RelativePath": "images/imagen1.JPG",
       "AssetKind": "All",
@@ -1122,10 +1244,17 @@
       "OriginalItemSpec": "wwwroot\\images\\imagen1.JPG"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\images\\imagen10.JPG",
       "SourceId": "appPolnice",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\",
+=======
+      "Identity": "C:\\code\\2022\\appPolnice\\wwwroot\\images\\imagen10.JPG",
+      "SourceId": "appPolnice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\code\\2022\\appPolnice\\wwwroot\\",
+>>>>>>> f9d49446e22249a439dc7490c4796654d6172518
       "BasePath": "_content/appPolnice",
       "RelativePath": "images/imagen10.JPG",
       "AssetKind": "All",
@@ -1139,10 +1268,17 @@
       "OriginalItemSpec": "wwwroot\\images\\imagen10.JPG"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\images\\imagen11.JPG",
       "SourceId": "appPolnice",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\",
+=======
+      "Identity": "C:\\code\\2022\\appPolnice\\wwwroot\\images\\imagen11.JPG",
+      "SourceId": "appPolnice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\code\\2022\\appPolnice\\wwwroot\\",
+>>>>>>> f9d49446e22249a439dc7490c4796654d6172518
       "BasePath": "_content/appPolnice",
       "RelativePath": "images/imagen11.JPG",
       "AssetKind": "All",
@@ -1156,10 +1292,17 @@
       "OriginalItemSpec": "wwwroot\\images\\imagen11.JPG"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\images\\imagen12.JPG",
       "SourceId": "appPolnice",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\",
+=======
+      "Identity": "C:\\code\\2022\\appPolnice\\wwwroot\\images\\imagen12.JPG",
+      "SourceId": "appPolnice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\code\\2022\\appPolnice\\wwwroot\\",
+>>>>>>> f9d49446e22249a439dc7490c4796654d6172518
       "BasePath": "_content/appPolnice",
       "RelativePath": "images/imagen12.JPG",
       "AssetKind": "All",
@@ -1173,10 +1316,17 @@
       "OriginalItemSpec": "wwwroot\\images\\imagen12.JPG"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\images\\imagen13.jpeg",
       "SourceId": "appPolnice",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\",
+=======
+      "Identity": "C:\\code\\2022\\appPolnice\\wwwroot\\images\\imagen13.jpeg",
+      "SourceId": "appPolnice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\code\\2022\\appPolnice\\wwwroot\\",
+>>>>>>> f9d49446e22249a439dc7490c4796654d6172518
       "BasePath": "_content/appPolnice",
       "RelativePath": "images/imagen13.jpeg",
       "AssetKind": "All",
@@ -1190,10 +1340,17 @@
       "OriginalItemSpec": "wwwroot\\images\\imagen13.jpeg"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\images\\imagen14.jpeg",
       "SourceId": "appPolnice",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\",
+=======
+      "Identity": "C:\\code\\2022\\appPolnice\\wwwroot\\images\\imagen14.jpeg",
+      "SourceId": "appPolnice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\code\\2022\\appPolnice\\wwwroot\\",
+>>>>>>> f9d49446e22249a439dc7490c4796654d6172518
       "BasePath": "_content/appPolnice",
       "RelativePath": "images/imagen14.jpeg",
       "AssetKind": "All",
@@ -1207,10 +1364,17 @@
       "OriginalItemSpec": "wwwroot\\images\\imagen14.jpeg"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\images\\imagen15.jpeg",
       "SourceId": "appPolnice",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\",
+=======
+      "Identity": "C:\\code\\2022\\appPolnice\\wwwroot\\images\\imagen15.jpeg",
+      "SourceId": "appPolnice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\code\\2022\\appPolnice\\wwwroot\\",
+>>>>>>> f9d49446e22249a439dc7490c4796654d6172518
       "BasePath": "_content/appPolnice",
       "RelativePath": "images/imagen15.jpeg",
       "AssetKind": "All",
@@ -1224,10 +1388,17 @@
       "OriginalItemSpec": "wwwroot\\images\\imagen15.jpeg"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\images\\imagen16.jpeg",
       "SourceId": "appPolnice",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\",
+=======
+      "Identity": "C:\\code\\2022\\appPolnice\\wwwroot\\images\\imagen16.jpeg",
+      "SourceId": "appPolnice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\code\\2022\\appPolnice\\wwwroot\\",
+>>>>>>> f9d49446e22249a439dc7490c4796654d6172518
       "BasePath": "_content/appPolnice",
       "RelativePath": "images/imagen16.jpeg",
       "AssetKind": "All",
@@ -1241,10 +1412,17 @@
       "OriginalItemSpec": "wwwroot\\images\\imagen16.jpeg"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\images\\imagen17.jpeg",
       "SourceId": "appPolnice",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\",
+=======
+      "Identity": "C:\\code\\2022\\appPolnice\\wwwroot\\images\\imagen17.jpeg",
+      "SourceId": "appPolnice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\code\\2022\\appPolnice\\wwwroot\\",
+>>>>>>> f9d49446e22249a439dc7490c4796654d6172518
       "BasePath": "_content/appPolnice",
       "RelativePath": "images/imagen17.jpeg",
       "AssetKind": "All",
@@ -1258,10 +1436,17 @@
       "OriginalItemSpec": "wwwroot\\images\\imagen17.jpeg"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\images\\imagen18.jpeg",
       "SourceId": "appPolnice",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\",
+=======
+      "Identity": "C:\\code\\2022\\appPolnice\\wwwroot\\images\\imagen18.jpeg",
+      "SourceId": "appPolnice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\code\\2022\\appPolnice\\wwwroot\\",
+>>>>>>> f9d49446e22249a439dc7490c4796654d6172518
       "BasePath": "_content/appPolnice",
       "RelativePath": "images/imagen18.jpeg",
       "AssetKind": "All",
@@ -1275,10 +1460,17 @@
       "OriginalItemSpec": "wwwroot\\images\\imagen18.jpeg"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\images\\imagen19.jpeg",
       "SourceId": "appPolnice",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\",
+=======
+      "Identity": "C:\\code\\2022\\appPolnice\\wwwroot\\images\\imagen19.jpeg",
+      "SourceId": "appPolnice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\code\\2022\\appPolnice\\wwwroot\\",
+>>>>>>> f9d49446e22249a439dc7490c4796654d6172518
       "BasePath": "_content/appPolnice",
       "RelativePath": "images/imagen19.jpeg",
       "AssetKind": "All",
@@ -1292,10 +1484,17 @@
       "OriginalItemSpec": "wwwroot\\images\\imagen19.jpeg"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\images\\imagen2.JPG",
       "SourceId": "appPolnice",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\",
+=======
+      "Identity": "C:\\code\\2022\\appPolnice\\wwwroot\\images\\imagen2.JPG",
+      "SourceId": "appPolnice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\code\\2022\\appPolnice\\wwwroot\\",
+>>>>>>> f9d49446e22249a439dc7490c4796654d6172518
       "BasePath": "_content/appPolnice",
       "RelativePath": "images/imagen2.JPG",
       "AssetKind": "All",
@@ -1309,10 +1508,17 @@
       "OriginalItemSpec": "wwwroot\\images\\imagen2.JPG"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\images\\imagen20.jpeg",
       "SourceId": "appPolnice",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\",
+=======
+      "Identity": "C:\\code\\2022\\appPolnice\\wwwroot\\images\\imagen20.jpeg",
+      "SourceId": "appPolnice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\code\\2022\\appPolnice\\wwwroot\\",
+>>>>>>> f9d49446e22249a439dc7490c4796654d6172518
       "BasePath": "_content/appPolnice",
       "RelativePath": "images/imagen20.jpeg",
       "AssetKind": "All",
@@ -1326,10 +1532,17 @@
       "OriginalItemSpec": "wwwroot\\images\\imagen20.jpeg"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\images\\imagen21.jpeg",
       "SourceId": "appPolnice",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\",
+=======
+      "Identity": "C:\\code\\2022\\appPolnice\\wwwroot\\images\\imagen21.jpeg",
+      "SourceId": "appPolnice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\code\\2022\\appPolnice\\wwwroot\\",
+>>>>>>> f9d49446e22249a439dc7490c4796654d6172518
       "BasePath": "_content/appPolnice",
       "RelativePath": "images/imagen21.jpeg",
       "AssetKind": "All",
@@ -1343,10 +1556,17 @@
       "OriginalItemSpec": "wwwroot\\images\\imagen21.jpeg"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\images\\imagen22.jpeg",
       "SourceId": "appPolnice",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\",
+=======
+      "Identity": "C:\\code\\2022\\appPolnice\\wwwroot\\images\\imagen22.jpeg",
+      "SourceId": "appPolnice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\code\\2022\\appPolnice\\wwwroot\\",
+>>>>>>> f9d49446e22249a439dc7490c4796654d6172518
       "BasePath": "_content/appPolnice",
       "RelativePath": "images/imagen22.jpeg",
       "AssetKind": "All",
@@ -1360,10 +1580,17 @@
       "OriginalItemSpec": "wwwroot\\images\\imagen22.jpeg"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\images\\imagen23.jpeg",
       "SourceId": "appPolnice",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\",
+=======
+      "Identity": "C:\\code\\2022\\appPolnice\\wwwroot\\images\\imagen23.jpeg",
+      "SourceId": "appPolnice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\code\\2022\\appPolnice\\wwwroot\\",
+>>>>>>> f9d49446e22249a439dc7490c4796654d6172518
       "BasePath": "_content/appPolnice",
       "RelativePath": "images/imagen23.jpeg",
       "AssetKind": "All",
@@ -1377,10 +1604,17 @@
       "OriginalItemSpec": "wwwroot\\images\\imagen23.jpeg"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\images\\imagen24.jpeg",
       "SourceId": "appPolnice",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\",
+=======
+      "Identity": "C:\\code\\2022\\appPolnice\\wwwroot\\images\\imagen24.jpeg",
+      "SourceId": "appPolnice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\code\\2022\\appPolnice\\wwwroot\\",
+>>>>>>> f9d49446e22249a439dc7490c4796654d6172518
       "BasePath": "_content/appPolnice",
       "RelativePath": "images/imagen24.jpeg",
       "AssetKind": "All",
@@ -1394,10 +1628,17 @@
       "OriginalItemSpec": "wwwroot\\images\\imagen24.jpeg"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\images\\imagen25.jpeg",
       "SourceId": "appPolnice",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\",
+=======
+      "Identity": "C:\\code\\2022\\appPolnice\\wwwroot\\images\\imagen25.jpeg",
+      "SourceId": "appPolnice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\code\\2022\\appPolnice\\wwwroot\\",
+>>>>>>> f9d49446e22249a439dc7490c4796654d6172518
       "BasePath": "_content/appPolnice",
       "RelativePath": "images/imagen25.jpeg",
       "AssetKind": "All",
@@ -1411,10 +1652,17 @@
       "OriginalItemSpec": "wwwroot\\images\\imagen25.jpeg"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\images\\imagen26.jpeg",
       "SourceId": "appPolnice",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\",
+=======
+      "Identity": "C:\\code\\2022\\appPolnice\\wwwroot\\images\\imagen26.jpeg",
+      "SourceId": "appPolnice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\code\\2022\\appPolnice\\wwwroot\\",
+>>>>>>> f9d49446e22249a439dc7490c4796654d6172518
       "BasePath": "_content/appPolnice",
       "RelativePath": "images/imagen26.jpeg",
       "AssetKind": "All",
@@ -1428,10 +1676,17 @@
       "OriginalItemSpec": "wwwroot\\images\\imagen26.jpeg"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\images\\imagen27.jpeg",
       "SourceId": "appPolnice",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\",
+=======
+      "Identity": "C:\\code\\2022\\appPolnice\\wwwroot\\images\\imagen27.jpeg",
+      "SourceId": "appPolnice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\code\\2022\\appPolnice\\wwwroot\\",
+>>>>>>> f9d49446e22249a439dc7490c4796654d6172518
       "BasePath": "_content/appPolnice",
       "RelativePath": "images/imagen27.jpeg",
       "AssetKind": "All",
@@ -1445,10 +1700,17 @@
       "OriginalItemSpec": "wwwroot\\images\\imagen27.jpeg"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\images\\imagen28.jpeg",
       "SourceId": "appPolnice",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\",
+=======
+      "Identity": "C:\\code\\2022\\appPolnice\\wwwroot\\images\\imagen28.jpeg",
+      "SourceId": "appPolnice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\code\\2022\\appPolnice\\wwwroot\\",
+>>>>>>> f9d49446e22249a439dc7490c4796654d6172518
       "BasePath": "_content/appPolnice",
       "RelativePath": "images/imagen28.jpeg",
       "AssetKind": "All",
@@ -1462,10 +1724,17 @@
       "OriginalItemSpec": "wwwroot\\images\\imagen28.jpeg"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\images\\imagen29.jpeg",
       "SourceId": "appPolnice",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\",
+=======
+      "Identity": "C:\\code\\2022\\appPolnice\\wwwroot\\images\\imagen29.jpeg",
+      "SourceId": "appPolnice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\code\\2022\\appPolnice\\wwwroot\\",
+>>>>>>> f9d49446e22249a439dc7490c4796654d6172518
       "BasePath": "_content/appPolnice",
       "RelativePath": "images/imagen29.jpeg",
       "AssetKind": "All",
@@ -1479,10 +1748,17 @@
       "OriginalItemSpec": "wwwroot\\images\\imagen29.jpeg"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\images\\imagen3.JPG",
       "SourceId": "appPolnice",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\",
+=======
+      "Identity": "C:\\code\\2022\\appPolnice\\wwwroot\\images\\imagen3.JPG",
+      "SourceId": "appPolnice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\code\\2022\\appPolnice\\wwwroot\\",
+>>>>>>> f9d49446e22249a439dc7490c4796654d6172518
       "BasePath": "_content/appPolnice",
       "RelativePath": "images/imagen3.JPG",
       "AssetKind": "All",
@@ -1496,10 +1772,17 @@
       "OriginalItemSpec": "wwwroot\\images\\imagen3.JPG"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\images\\imagen30.jpeg",
       "SourceId": "appPolnice",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\",
+=======
+      "Identity": "C:\\code\\2022\\appPolnice\\wwwroot\\images\\imagen30.jpeg",
+      "SourceId": "appPolnice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\code\\2022\\appPolnice\\wwwroot\\",
+>>>>>>> f9d49446e22249a439dc7490c4796654d6172518
       "BasePath": "_content/appPolnice",
       "RelativePath": "images/imagen30.jpeg",
       "AssetKind": "All",
@@ -1513,10 +1796,17 @@
       "OriginalItemSpec": "wwwroot\\images\\imagen30.jpeg"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\images\\imagen31.jpeg",
       "SourceId": "appPolnice",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\",
+=======
+      "Identity": "C:\\code\\2022\\appPolnice\\wwwroot\\images\\imagen31.jpeg",
+      "SourceId": "appPolnice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\code\\2022\\appPolnice\\wwwroot\\",
+>>>>>>> f9d49446e22249a439dc7490c4796654d6172518
       "BasePath": "_content/appPolnice",
       "RelativePath": "images/imagen31.jpeg",
       "AssetKind": "All",
@@ -1530,10 +1820,17 @@
       "OriginalItemSpec": "wwwroot\\images\\imagen31.jpeg"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\images\\imagen32.jpeg",
       "SourceId": "appPolnice",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\",
+=======
+      "Identity": "C:\\code\\2022\\appPolnice\\wwwroot\\images\\imagen32.jpeg",
+      "SourceId": "appPolnice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\code\\2022\\appPolnice\\wwwroot\\",
+>>>>>>> f9d49446e22249a439dc7490c4796654d6172518
       "BasePath": "_content/appPolnice",
       "RelativePath": "images/imagen32.jpeg",
       "AssetKind": "All",
@@ -1547,10 +1844,17 @@
       "OriginalItemSpec": "wwwroot\\images\\imagen32.jpeg"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\images\\imagen33.jpeg",
       "SourceId": "appPolnice",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\",
+=======
+      "Identity": "C:\\code\\2022\\appPolnice\\wwwroot\\images\\imagen33.jpeg",
+      "SourceId": "appPolnice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\code\\2022\\appPolnice\\wwwroot\\",
+>>>>>>> f9d49446e22249a439dc7490c4796654d6172518
       "BasePath": "_content/appPolnice",
       "RelativePath": "images/imagen33.jpeg",
       "AssetKind": "All",
@@ -1564,10 +1868,17 @@
       "OriginalItemSpec": "wwwroot\\images\\imagen33.jpeg"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\images\\imagen34.jpeg",
       "SourceId": "appPolnice",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\",
+=======
+      "Identity": "C:\\code\\2022\\appPolnice\\wwwroot\\images\\imagen34.jpeg",
+      "SourceId": "appPolnice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\code\\2022\\appPolnice\\wwwroot\\",
+>>>>>>> f9d49446e22249a439dc7490c4796654d6172518
       "BasePath": "_content/appPolnice",
       "RelativePath": "images/imagen34.jpeg",
       "AssetKind": "All",
@@ -1581,10 +1892,17 @@
       "OriginalItemSpec": "wwwroot\\images\\imagen34.jpeg"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\images\\imagen35.jpeg",
       "SourceId": "appPolnice",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\",
+=======
+      "Identity": "C:\\code\\2022\\appPolnice\\wwwroot\\images\\imagen35.jpeg",
+      "SourceId": "appPolnice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\code\\2022\\appPolnice\\wwwroot\\",
+>>>>>>> f9d49446e22249a439dc7490c4796654d6172518
       "BasePath": "_content/appPolnice",
       "RelativePath": "images/imagen35.jpeg",
       "AssetKind": "All",
@@ -1598,10 +1916,17 @@
       "OriginalItemSpec": "wwwroot\\images\\imagen35.jpeg"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\images\\imagen36.jpeg",
       "SourceId": "appPolnice",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\",
+=======
+      "Identity": "C:\\code\\2022\\appPolnice\\wwwroot\\images\\imagen36.jpeg",
+      "SourceId": "appPolnice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\code\\2022\\appPolnice\\wwwroot\\",
+>>>>>>> f9d49446e22249a439dc7490c4796654d6172518
       "BasePath": "_content/appPolnice",
       "RelativePath": "images/imagen36.jpeg",
       "AssetKind": "All",
@@ -1615,10 +1940,17 @@
       "OriginalItemSpec": "wwwroot\\images\\imagen36.jpeg"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\images\\imagen37.jpeg",
       "SourceId": "appPolnice",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\",
+=======
+      "Identity": "C:\\code\\2022\\appPolnice\\wwwroot\\images\\imagen37.jpeg",
+      "SourceId": "appPolnice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\code\\2022\\appPolnice\\wwwroot\\",
+>>>>>>> f9d49446e22249a439dc7490c4796654d6172518
       "BasePath": "_content/appPolnice",
       "RelativePath": "images/imagen37.jpeg",
       "AssetKind": "All",
@@ -1632,10 +1964,17 @@
       "OriginalItemSpec": "wwwroot\\images\\imagen37.jpeg"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\images\\imagen38.jpeg",
       "SourceId": "appPolnice",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\",
+=======
+      "Identity": "C:\\code\\2022\\appPolnice\\wwwroot\\images\\imagen38.jpeg",
+      "SourceId": "appPolnice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\code\\2022\\appPolnice\\wwwroot\\",
+>>>>>>> f9d49446e22249a439dc7490c4796654d6172518
       "BasePath": "_content/appPolnice",
       "RelativePath": "images/imagen38.jpeg",
       "AssetKind": "All",
@@ -1649,10 +1988,17 @@
       "OriginalItemSpec": "wwwroot\\images\\imagen38.jpeg"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\images\\imagen39.jpeg",
       "SourceId": "appPolnice",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\",
+=======
+      "Identity": "C:\\code\\2022\\appPolnice\\wwwroot\\images\\imagen39.jpeg",
+      "SourceId": "appPolnice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\code\\2022\\appPolnice\\wwwroot\\",
+>>>>>>> f9d49446e22249a439dc7490c4796654d6172518
       "BasePath": "_content/appPolnice",
       "RelativePath": "images/imagen39.jpeg",
       "AssetKind": "All",
@@ -1666,10 +2012,17 @@
       "OriginalItemSpec": "wwwroot\\images\\imagen39.jpeg"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\images\\imagen4.JPG",
       "SourceId": "appPolnice",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\",
+=======
+      "Identity": "C:\\code\\2022\\appPolnice\\wwwroot\\images\\imagen4.JPG",
+      "SourceId": "appPolnice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\code\\2022\\appPolnice\\wwwroot\\",
+>>>>>>> f9d49446e22249a439dc7490c4796654d6172518
       "BasePath": "_content/appPolnice",
       "RelativePath": "images/imagen4.JPG",
       "AssetKind": "All",
@@ -1683,10 +2036,17 @@
       "OriginalItemSpec": "wwwroot\\images\\imagen4.JPG"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\images\\imagen40.jpeg",
       "SourceId": "appPolnice",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\",
+=======
+      "Identity": "C:\\code\\2022\\appPolnice\\wwwroot\\images\\imagen40.jpeg",
+      "SourceId": "appPolnice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\code\\2022\\appPolnice\\wwwroot\\",
+>>>>>>> f9d49446e22249a439dc7490c4796654d6172518
       "BasePath": "_content/appPolnice",
       "RelativePath": "images/imagen40.jpeg",
       "AssetKind": "All",
@@ -1700,10 +2060,17 @@
       "OriginalItemSpec": "wwwroot\\images\\imagen40.jpeg"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\images\\imagen41.jpg",
       "SourceId": "appPolnice",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\",
+=======
+      "Identity": "C:\\code\\2022\\appPolnice\\wwwroot\\images\\imagen41.jpg",
+      "SourceId": "appPolnice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\code\\2022\\appPolnice\\wwwroot\\",
+>>>>>>> f9d49446e22249a439dc7490c4796654d6172518
       "BasePath": "_content/appPolnice",
       "RelativePath": "images/imagen41.jpg",
       "AssetKind": "All",
@@ -1717,10 +2084,17 @@
       "OriginalItemSpec": "wwwroot\\images\\imagen41.jpg"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\images\\imagen42.jpg",
       "SourceId": "appPolnice",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\",
+=======
+      "Identity": "C:\\code\\2022\\appPolnice\\wwwroot\\images\\imagen42.jpg",
+      "SourceId": "appPolnice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\code\\2022\\appPolnice\\wwwroot\\",
+>>>>>>> f9d49446e22249a439dc7490c4796654d6172518
       "BasePath": "_content/appPolnice",
       "RelativePath": "images/imagen42.jpg",
       "AssetKind": "All",
@@ -1734,10 +2108,17 @@
       "OriginalItemSpec": "wwwroot\\images\\imagen42.jpg"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\images\\imagen43.jpg",
       "SourceId": "appPolnice",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\",
+=======
+      "Identity": "C:\\code\\2022\\appPolnice\\wwwroot\\images\\imagen43.jpg",
+      "SourceId": "appPolnice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\code\\2022\\appPolnice\\wwwroot\\",
+>>>>>>> f9d49446e22249a439dc7490c4796654d6172518
       "BasePath": "_content/appPolnice",
       "RelativePath": "images/imagen43.jpg",
       "AssetKind": "All",
@@ -1751,10 +2132,17 @@
       "OriginalItemSpec": "wwwroot\\images\\imagen43.jpg"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\images\\imagen44.jpg",
       "SourceId": "appPolnice",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\",
+=======
+      "Identity": "C:\\code\\2022\\appPolnice\\wwwroot\\images\\imagen44.jpg",
+      "SourceId": "appPolnice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\code\\2022\\appPolnice\\wwwroot\\",
+>>>>>>> f9d49446e22249a439dc7490c4796654d6172518
       "BasePath": "_content/appPolnice",
       "RelativePath": "images/imagen44.jpg",
       "AssetKind": "All",
@@ -1768,10 +2156,17 @@
       "OriginalItemSpec": "wwwroot\\images\\imagen44.jpg"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\images\\imagen45.jpg",
       "SourceId": "appPolnice",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\",
+=======
+      "Identity": "C:\\code\\2022\\appPolnice\\wwwroot\\images\\imagen45.jpg",
+      "SourceId": "appPolnice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\code\\2022\\appPolnice\\wwwroot\\",
+>>>>>>> f9d49446e22249a439dc7490c4796654d6172518
       "BasePath": "_content/appPolnice",
       "RelativePath": "images/imagen45.jpg",
       "AssetKind": "All",
@@ -1785,10 +2180,17 @@
       "OriginalItemSpec": "wwwroot\\images\\imagen45.jpg"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\images\\imagen46.jpg",
       "SourceId": "appPolnice",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\",
+=======
+      "Identity": "C:\\code\\2022\\appPolnice\\wwwroot\\images\\imagen46.jpg",
+      "SourceId": "appPolnice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\code\\2022\\appPolnice\\wwwroot\\",
+>>>>>>> f9d49446e22249a439dc7490c4796654d6172518
       "BasePath": "_content/appPolnice",
       "RelativePath": "images/imagen46.jpg",
       "AssetKind": "All",
@@ -1802,10 +2204,17 @@
       "OriginalItemSpec": "wwwroot\\images\\imagen46.jpg"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\images\\imagen47.jpeg",
       "SourceId": "appPolnice",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\",
+=======
+      "Identity": "C:\\code\\2022\\appPolnice\\wwwroot\\images\\imagen47.jpeg",
+      "SourceId": "appPolnice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\code\\2022\\appPolnice\\wwwroot\\",
+>>>>>>> f9d49446e22249a439dc7490c4796654d6172518
       "BasePath": "_content/appPolnice",
       "RelativePath": "images/imagen47.jpeg",
       "AssetKind": "All",
@@ -1819,10 +2228,17 @@
       "OriginalItemSpec": "wwwroot\\images\\imagen47.jpeg"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\images\\imagen48.jpg",
       "SourceId": "appPolnice",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\",
+=======
+      "Identity": "C:\\code\\2022\\appPolnice\\wwwroot\\images\\imagen48.jpg",
+      "SourceId": "appPolnice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\code\\2022\\appPolnice\\wwwroot\\",
+>>>>>>> f9d49446e22249a439dc7490c4796654d6172518
       "BasePath": "_content/appPolnice",
       "RelativePath": "images/imagen48.jpg",
       "AssetKind": "All",
@@ -1836,10 +2252,17 @@
       "OriginalItemSpec": "wwwroot\\images\\imagen48.jpg"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\images\\imagen49.jpg",
       "SourceId": "appPolnice",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\",
+=======
+      "Identity": "C:\\code\\2022\\appPolnice\\wwwroot\\images\\imagen49.jpg",
+      "SourceId": "appPolnice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\code\\2022\\appPolnice\\wwwroot\\",
+>>>>>>> f9d49446e22249a439dc7490c4796654d6172518
       "BasePath": "_content/appPolnice",
       "RelativePath": "images/imagen49.jpg",
       "AssetKind": "All",
@@ -1853,10 +2276,17 @@
       "OriginalItemSpec": "wwwroot\\images\\imagen49.jpg"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\images\\imagen5.JPG",
       "SourceId": "appPolnice",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\",
+=======
+      "Identity": "C:\\code\\2022\\appPolnice\\wwwroot\\images\\imagen5.JPG",
+      "SourceId": "appPolnice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\code\\2022\\appPolnice\\wwwroot\\",
+>>>>>>> f9d49446e22249a439dc7490c4796654d6172518
       "BasePath": "_content/appPolnice",
       "RelativePath": "images/imagen5.JPG",
       "AssetKind": "All",
@@ -1870,10 +2300,17 @@
       "OriginalItemSpec": "wwwroot\\images\\imagen5.JPG"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\images\\imagen50.jpg",
       "SourceId": "appPolnice",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\",
+=======
+      "Identity": "C:\\code\\2022\\appPolnice\\wwwroot\\images\\imagen50.jpg",
+      "SourceId": "appPolnice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\code\\2022\\appPolnice\\wwwroot\\",
+>>>>>>> f9d49446e22249a439dc7490c4796654d6172518
       "BasePath": "_content/appPolnice",
       "RelativePath": "images/imagen50.jpg",
       "AssetKind": "All",
@@ -1887,10 +2324,17 @@
       "OriginalItemSpec": "wwwroot\\images\\imagen50.jpg"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\images\\imagen51.jpg",
       "SourceId": "appPolnice",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\",
+=======
+      "Identity": "C:\\code\\2022\\appPolnice\\wwwroot\\images\\imagen51.jpg",
+      "SourceId": "appPolnice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\code\\2022\\appPolnice\\wwwroot\\",
+>>>>>>> f9d49446e22249a439dc7490c4796654d6172518
       "BasePath": "_content/appPolnice",
       "RelativePath": "images/imagen51.jpg",
       "AssetKind": "All",
@@ -1904,10 +2348,17 @@
       "OriginalItemSpec": "wwwroot\\images\\imagen51.jpg"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\images\\imagen52.jpg",
       "SourceId": "appPolnice",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\",
+=======
+      "Identity": "C:\\code\\2022\\appPolnice\\wwwroot\\images\\imagen52.jpg",
+      "SourceId": "appPolnice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\code\\2022\\appPolnice\\wwwroot\\",
+>>>>>>> f9d49446e22249a439dc7490c4796654d6172518
       "BasePath": "_content/appPolnice",
       "RelativePath": "images/imagen52.jpg",
       "AssetKind": "All",
@@ -1921,10 +2372,17 @@
       "OriginalItemSpec": "wwwroot\\images\\imagen52.jpg"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\images\\imagen53.jpg",
       "SourceId": "appPolnice",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\",
+=======
+      "Identity": "C:\\code\\2022\\appPolnice\\wwwroot\\images\\imagen53.jpg",
+      "SourceId": "appPolnice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\code\\2022\\appPolnice\\wwwroot\\",
+>>>>>>> f9d49446e22249a439dc7490c4796654d6172518
       "BasePath": "_content/appPolnice",
       "RelativePath": "images/imagen53.jpg",
       "AssetKind": "All",
@@ -1938,10 +2396,17 @@
       "OriginalItemSpec": "wwwroot\\images\\imagen53.jpg"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\images\\imagen54.jpg",
       "SourceId": "appPolnice",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\",
+=======
+      "Identity": "C:\\code\\2022\\appPolnice\\wwwroot\\images\\imagen54.jpg",
+      "SourceId": "appPolnice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\code\\2022\\appPolnice\\wwwroot\\",
+>>>>>>> f9d49446e22249a439dc7490c4796654d6172518
       "BasePath": "_content/appPolnice",
       "RelativePath": "images/imagen54.jpg",
       "AssetKind": "All",
@@ -1955,10 +2420,17 @@
       "OriginalItemSpec": "wwwroot\\images\\imagen54.jpg"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\images\\imagen55.jpg",
       "SourceId": "appPolnice",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\",
+=======
+      "Identity": "C:\\code\\2022\\appPolnice\\wwwroot\\images\\imagen55.jpg",
+      "SourceId": "appPolnice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\code\\2022\\appPolnice\\wwwroot\\",
+>>>>>>> f9d49446e22249a439dc7490c4796654d6172518
       "BasePath": "_content/appPolnice",
       "RelativePath": "images/imagen55.jpg",
       "AssetKind": "All",
@@ -1972,10 +2444,17 @@
       "OriginalItemSpec": "wwwroot\\images\\imagen55.jpg"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\images\\imagen56.jpg",
       "SourceId": "appPolnice",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\",
+=======
+      "Identity": "C:\\code\\2022\\appPolnice\\wwwroot\\images\\imagen56.jpg",
+      "SourceId": "appPolnice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\code\\2022\\appPolnice\\wwwroot\\",
+>>>>>>> f9d49446e22249a439dc7490c4796654d6172518
       "BasePath": "_content/appPolnice",
       "RelativePath": "images/imagen56.jpg",
       "AssetKind": "All",
@@ -1989,10 +2468,17 @@
       "OriginalItemSpec": "wwwroot\\images\\imagen56.jpg"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\images\\imagen57.jpg",
       "SourceId": "appPolnice",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\",
+=======
+      "Identity": "C:\\code\\2022\\appPolnice\\wwwroot\\images\\imagen57.jpg",
+      "SourceId": "appPolnice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\code\\2022\\appPolnice\\wwwroot\\",
+>>>>>>> f9d49446e22249a439dc7490c4796654d6172518
       "BasePath": "_content/appPolnice",
       "RelativePath": "images/imagen57.jpg",
       "AssetKind": "All",
@@ -2006,10 +2492,17 @@
       "OriginalItemSpec": "wwwroot\\images\\imagen57.jpg"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\images\\imagen58.jpg",
       "SourceId": "appPolnice",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\",
+=======
+      "Identity": "C:\\code\\2022\\appPolnice\\wwwroot\\images\\imagen58.jpg",
+      "SourceId": "appPolnice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\code\\2022\\appPolnice\\wwwroot\\",
+>>>>>>> f9d49446e22249a439dc7490c4796654d6172518
       "BasePath": "_content/appPolnice",
       "RelativePath": "images/imagen58.jpg",
       "AssetKind": "All",
@@ -2023,10 +2516,17 @@
       "OriginalItemSpec": "wwwroot\\images\\imagen58.jpg"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\images\\imagen59.jpg",
       "SourceId": "appPolnice",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\",
+=======
+      "Identity": "C:\\code\\2022\\appPolnice\\wwwroot\\images\\imagen59.jpg",
+      "SourceId": "appPolnice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\code\\2022\\appPolnice\\wwwroot\\",
+>>>>>>> f9d49446e22249a439dc7490c4796654d6172518
       "BasePath": "_content/appPolnice",
       "RelativePath": "images/imagen59.jpg",
       "AssetKind": "All",
@@ -2040,10 +2540,17 @@
       "OriginalItemSpec": "wwwroot\\images\\imagen59.jpg"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\images\\imagen6.JPG",
       "SourceId": "appPolnice",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\",
+=======
+      "Identity": "C:\\code\\2022\\appPolnice\\wwwroot\\images\\imagen6.JPG",
+      "SourceId": "appPolnice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\code\\2022\\appPolnice\\wwwroot\\",
+>>>>>>> f9d49446e22249a439dc7490c4796654d6172518
       "BasePath": "_content/appPolnice",
       "RelativePath": "images/imagen6.JPG",
       "AssetKind": "All",
@@ -2057,10 +2564,17 @@
       "OriginalItemSpec": "wwwroot\\images\\imagen6.JPG"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\images\\imagen60.jpg",
       "SourceId": "appPolnice",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\",
+=======
+      "Identity": "C:\\code\\2022\\appPolnice\\wwwroot\\images\\imagen60.jpg",
+      "SourceId": "appPolnice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\code\\2022\\appPolnice\\wwwroot\\",
+>>>>>>> f9d49446e22249a439dc7490c4796654d6172518
       "BasePath": "_content/appPolnice",
       "RelativePath": "images/imagen60.jpg",
       "AssetKind": "All",
@@ -2074,10 +2588,17 @@
       "OriginalItemSpec": "wwwroot\\images\\imagen60.jpg"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\images\\imagen61.jpg",
       "SourceId": "appPolnice",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\",
+=======
+      "Identity": "C:\\code\\2022\\appPolnice\\wwwroot\\images\\imagen61.jpg",
+      "SourceId": "appPolnice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\code\\2022\\appPolnice\\wwwroot\\",
+>>>>>>> f9d49446e22249a439dc7490c4796654d6172518
       "BasePath": "_content/appPolnice",
       "RelativePath": "images/imagen61.jpg",
       "AssetKind": "All",
@@ -2091,10 +2612,17 @@
       "OriginalItemSpec": "wwwroot\\images\\imagen61.jpg"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\images\\imagen62.jpg",
       "SourceId": "appPolnice",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\",
+=======
+      "Identity": "C:\\code\\2022\\appPolnice\\wwwroot\\images\\imagen62.jpg",
+      "SourceId": "appPolnice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\code\\2022\\appPolnice\\wwwroot\\",
+>>>>>>> f9d49446e22249a439dc7490c4796654d6172518
       "BasePath": "_content/appPolnice",
       "RelativePath": "images/imagen62.jpg",
       "AssetKind": "All",
@@ -2108,10 +2636,17 @@
       "OriginalItemSpec": "wwwroot\\images\\imagen62.jpg"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\images\\imagen63.jpg",
       "SourceId": "appPolnice",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\",
+=======
+      "Identity": "C:\\code\\2022\\appPolnice\\wwwroot\\images\\imagen63.jpg",
+      "SourceId": "appPolnice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\code\\2022\\appPolnice\\wwwroot\\",
+>>>>>>> f9d49446e22249a439dc7490c4796654d6172518
       "BasePath": "_content/appPolnice",
       "RelativePath": "images/imagen63.jpg",
       "AssetKind": "All",
@@ -2125,10 +2660,17 @@
       "OriginalItemSpec": "wwwroot\\images\\imagen63.jpg"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\images\\imagen64.jpg",
       "SourceId": "appPolnice",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\",
+=======
+      "Identity": "C:\\code\\2022\\appPolnice\\wwwroot\\images\\imagen64.jpg",
+      "SourceId": "appPolnice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\code\\2022\\appPolnice\\wwwroot\\",
+>>>>>>> f9d49446e22249a439dc7490c4796654d6172518
       "BasePath": "_content/appPolnice",
       "RelativePath": "images/imagen64.jpg",
       "AssetKind": "All",
@@ -2142,10 +2684,17 @@
       "OriginalItemSpec": "wwwroot\\images\\imagen64.jpg"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\images\\imagen65.jpg",
       "SourceId": "appPolnice",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\",
+=======
+      "Identity": "C:\\code\\2022\\appPolnice\\wwwroot\\images\\imagen65.jpg",
+      "SourceId": "appPolnice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\code\\2022\\appPolnice\\wwwroot\\",
+>>>>>>> f9d49446e22249a439dc7490c4796654d6172518
       "BasePath": "_content/appPolnice",
       "RelativePath": "images/imagen65.jpg",
       "AssetKind": "All",
@@ -2159,10 +2708,17 @@
       "OriginalItemSpec": "wwwroot\\images\\imagen65.jpg"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\images\\imagen66.jpg",
       "SourceId": "appPolnice",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\",
+=======
+      "Identity": "C:\\code\\2022\\appPolnice\\wwwroot\\images\\imagen66.jpg",
+      "SourceId": "appPolnice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\code\\2022\\appPolnice\\wwwroot\\",
+>>>>>>> f9d49446e22249a439dc7490c4796654d6172518
       "BasePath": "_content/appPolnice",
       "RelativePath": "images/imagen66.jpg",
       "AssetKind": "All",
@@ -2176,10 +2732,17 @@
       "OriginalItemSpec": "wwwroot\\images\\imagen66.jpg"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\images\\imagen67.jpg",
       "SourceId": "appPolnice",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\",
+=======
+      "Identity": "C:\\code\\2022\\appPolnice\\wwwroot\\images\\imagen67.jpg",
+      "SourceId": "appPolnice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\code\\2022\\appPolnice\\wwwroot\\",
+>>>>>>> f9d49446e22249a439dc7490c4796654d6172518
       "BasePath": "_content/appPolnice",
       "RelativePath": "images/imagen67.jpg",
       "AssetKind": "All",
@@ -2193,10 +2756,17 @@
       "OriginalItemSpec": "wwwroot\\images\\imagen67.jpg"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\images\\imagen68.jpg",
       "SourceId": "appPolnice",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\",
+=======
+      "Identity": "C:\\code\\2022\\appPolnice\\wwwroot\\images\\imagen68.jpg",
+      "SourceId": "appPolnice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\code\\2022\\appPolnice\\wwwroot\\",
+>>>>>>> f9d49446e22249a439dc7490c4796654d6172518
       "BasePath": "_content/appPolnice",
       "RelativePath": "images/imagen68.jpg",
       "AssetKind": "All",
@@ -2210,10 +2780,17 @@
       "OriginalItemSpec": "wwwroot\\images\\imagen68.jpg"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\images\\imagen69.jpg",
       "SourceId": "appPolnice",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\",
+=======
+      "Identity": "C:\\code\\2022\\appPolnice\\wwwroot\\images\\imagen69.jpg",
+      "SourceId": "appPolnice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\code\\2022\\appPolnice\\wwwroot\\",
+>>>>>>> f9d49446e22249a439dc7490c4796654d6172518
       "BasePath": "_content/appPolnice",
       "RelativePath": "images/imagen69.jpg",
       "AssetKind": "All",
@@ -2227,10 +2804,17 @@
       "OriginalItemSpec": "wwwroot\\images\\imagen69.jpg"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\images\\imagen7.JPG",
       "SourceId": "appPolnice",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\",
+=======
+      "Identity": "C:\\code\\2022\\appPolnice\\wwwroot\\images\\imagen7.JPG",
+      "SourceId": "appPolnice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\code\\2022\\appPolnice\\wwwroot\\",
+>>>>>>> f9d49446e22249a439dc7490c4796654d6172518
       "BasePath": "_content/appPolnice",
       "RelativePath": "images/imagen7.JPG",
       "AssetKind": "All",
@@ -2244,10 +2828,17 @@
       "OriginalItemSpec": "wwwroot\\images\\imagen7.JPG"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\images\\imagen70.jpg",
       "SourceId": "appPolnice",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\",
+=======
+      "Identity": "C:\\code\\2022\\appPolnice\\wwwroot\\images\\imagen70.jpg",
+      "SourceId": "appPolnice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\code\\2022\\appPolnice\\wwwroot\\",
+>>>>>>> f9d49446e22249a439dc7490c4796654d6172518
       "BasePath": "_content/appPolnice",
       "RelativePath": "images/imagen70.jpg",
       "AssetKind": "All",
@@ -2261,10 +2852,17 @@
       "OriginalItemSpec": "wwwroot\\images\\imagen70.jpg"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\images\\imagen8.JPG",
       "SourceId": "appPolnice",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\",
+=======
+      "Identity": "C:\\code\\2022\\appPolnice\\wwwroot\\images\\imagen8.JPG",
+      "SourceId": "appPolnice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\code\\2022\\appPolnice\\wwwroot\\",
+>>>>>>> f9d49446e22249a439dc7490c4796654d6172518
       "BasePath": "_content/appPolnice",
       "RelativePath": "images/imagen8.JPG",
       "AssetKind": "All",
@@ -2278,10 +2876,17 @@
       "OriginalItemSpec": "wwwroot\\images\\imagen8.JPG"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\images\\imagen9.JPG",
       "SourceId": "appPolnice",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\",
+=======
+      "Identity": "C:\\code\\2022\\appPolnice\\wwwroot\\images\\imagen9.JPG",
+      "SourceId": "appPolnice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\code\\2022\\appPolnice\\wwwroot\\",
+>>>>>>> f9d49446e22249a439dc7490c4796654d6172518
       "BasePath": "_content/appPolnice",
       "RelativePath": "images/imagen9.JPG",
       "AssetKind": "All",
@@ -2295,10 +2900,52 @@
       "OriginalItemSpec": "wwwroot\\images\\imagen9.JPG"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\js\\site.js",
+=======
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\User\\Desktop\\APP\\appPolnice\\wwwroot\\images\\logo.jpg",
+>>>>>>> f9d49446e22249a439dc7490c4796654d6172518
       "SourceId": "appPolnice",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\",
+      "BasePath": "_content/appPolnice",
+      "RelativePath": "images/logo.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\logo.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\APP\\appPolnice\\wwwroot\\images\\logoP.png",
+      "SourceId": "appPolnice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\APP\\appPolnice\\wwwroot\\",
+      "BasePath": "_content/appPolnice",
+      "RelativePath": "images/logoP.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\logoP.png"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\APP\\appPolnice\\wwwroot\\js\\site.js",
+=======
+      "Identity": "C:\\code\\2022\\appPolnice\\wwwroot\\js\\site.js",
+>>>>>>> 5d063fcfcd084a0565e8bd20d32be3f08d43f180
+      "SourceId": "appPolnice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\code\\2022\\appPolnice\\wwwroot\\",
       "BasePath": "_content/appPolnice",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -2312,10 +2959,17 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "appPolnice",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\",
+=======
+      "Identity": "C:\\code\\2022\\appPolnice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "SourceId": "appPolnice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\code\\2022\\appPolnice\\wwwroot\\",
+>>>>>>> f9d49446e22249a439dc7490c4796654d6172518
       "BasePath": "_content/appPolnice",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -2329,10 +2983,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "appPolnice",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\",
+=======
+      "Identity": "C:\\code\\2022\\appPolnice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "SourceId": "appPolnice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\code\\2022\\appPolnice\\wwwroot\\",
+>>>>>>> f9d49446e22249a439dc7490c4796654d6172518
       "BasePath": "_content/appPolnice",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -2346,10 +3007,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "appPolnice",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\",
+=======
+      "Identity": "C:\\code\\2022\\appPolnice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "SourceId": "appPolnice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\code\\2022\\appPolnice\\wwwroot\\",
+>>>>>>> f9d49446e22249a439dc7490c4796654d6172518
       "BasePath": "_content/appPolnice",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -2363,10 +3031,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "appPolnice",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\",
+=======
+      "Identity": "C:\\code\\2022\\appPolnice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "SourceId": "appPolnice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\code\\2022\\appPolnice\\wwwroot\\",
+>>>>>>> f9d49446e22249a439dc7490c4796654d6172518
       "BasePath": "_content/appPolnice",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -2380,10 +3055,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "appPolnice",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\",
+=======
+      "Identity": "C:\\code\\2022\\appPolnice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "SourceId": "appPolnice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\code\\2022\\appPolnice\\wwwroot\\",
+>>>>>>> f9d49446e22249a439dc7490c4796654d6172518
       "BasePath": "_content/appPolnice",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -2397,10 +3079,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "appPolnice",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\",
+=======
+      "Identity": "C:\\code\\2022\\appPolnice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "SourceId": "appPolnice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\code\\2022\\appPolnice\\wwwroot\\",
+>>>>>>> f9d49446e22249a439dc7490c4796654d6172518
       "BasePath": "_content/appPolnice",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -2414,10 +3103,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "appPolnice",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\",
+=======
+      "Identity": "C:\\code\\2022\\appPolnice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "SourceId": "appPolnice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\code\\2022\\appPolnice\\wwwroot\\",
+>>>>>>> f9d49446e22249a439dc7490c4796654d6172518
       "BasePath": "_content/appPolnice",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -2431,10 +3127,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "appPolnice",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\",
+=======
+      "Identity": "C:\\code\\2022\\appPolnice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "SourceId": "appPolnice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\code\\2022\\appPolnice\\wwwroot\\",
+>>>>>>> f9d49446e22249a439dc7490c4796654d6172518
       "BasePath": "_content/appPolnice",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -2448,10 +3151,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "appPolnice",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\",
+=======
+      "Identity": "C:\\code\\2022\\appPolnice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "SourceId": "appPolnice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\code\\2022\\appPolnice\\wwwroot\\",
+>>>>>>> f9d49446e22249a439dc7490c4796654d6172518
       "BasePath": "_content/appPolnice",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -2465,10 +3175,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "appPolnice",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\",
+=======
+      "Identity": "C:\\code\\2022\\appPolnice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "SourceId": "appPolnice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\code\\2022\\appPolnice\\wwwroot\\",
+>>>>>>> f9d49446e22249a439dc7490c4796654d6172518
       "BasePath": "_content/appPolnice",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -2482,10 +3199,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "appPolnice",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\",
+=======
+      "Identity": "C:\\code\\2022\\appPolnice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "SourceId": "appPolnice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\code\\2022\\appPolnice\\wwwroot\\",
+>>>>>>> f9d49446e22249a439dc7490c4796654d6172518
       "BasePath": "_content/appPolnice",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -2499,10 +3223,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "appPolnice",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\",
+=======
+      "Identity": "C:\\code\\2022\\appPolnice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "SourceId": "appPolnice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\code\\2022\\appPolnice\\wwwroot\\",
+>>>>>>> f9d49446e22249a439dc7490c4796654d6172518
       "BasePath": "_content/appPolnice",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -2516,10 +3247,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "appPolnice",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\",
+=======
+      "Identity": "C:\\code\\2022\\appPolnice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "SourceId": "appPolnice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\code\\2022\\appPolnice\\wwwroot\\",
+>>>>>>> f9d49446e22249a439dc7490c4796654d6172518
       "BasePath": "_content/appPolnice",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -2533,10 +3271,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "appPolnice",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\",
+=======
+      "Identity": "C:\\code\\2022\\appPolnice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "SourceId": "appPolnice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\code\\2022\\appPolnice\\wwwroot\\",
+>>>>>>> f9d49446e22249a439dc7490c4796654d6172518
       "BasePath": "_content/appPolnice",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -2550,10 +3295,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "appPolnice",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\",
+=======
+      "Identity": "C:\\code\\2022\\appPolnice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "SourceId": "appPolnice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\code\\2022\\appPolnice\\wwwroot\\",
+>>>>>>> f9d49446e22249a439dc7490c4796654d6172518
       "BasePath": "_content/appPolnice",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -2567,10 +3319,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "appPolnice",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\",
+=======
+      "Identity": "C:\\code\\2022\\appPolnice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "SourceId": "appPolnice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\code\\2022\\appPolnice\\wwwroot\\",
+>>>>>>> f9d49446e22249a439dc7490c4796654d6172518
       "BasePath": "_content/appPolnice",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -2584,10 +3343,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "appPolnice",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\",
+=======
+      "Identity": "C:\\code\\2022\\appPolnice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "SourceId": "appPolnice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\code\\2022\\appPolnice\\wwwroot\\",
+>>>>>>> f9d49446e22249a439dc7490c4796654d6172518
       "BasePath": "_content/appPolnice",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -2601,10 +3367,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "appPolnice",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\",
+=======
+      "Identity": "C:\\code\\2022\\appPolnice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "SourceId": "appPolnice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\code\\2022\\appPolnice\\wwwroot\\",
+>>>>>>> f9d49446e22249a439dc7490c4796654d6172518
       "BasePath": "_content/appPolnice",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -2618,10 +3391,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "appPolnice",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\",
+=======
+      "Identity": "C:\\code\\2022\\appPolnice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "SourceId": "appPolnice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\code\\2022\\appPolnice\\wwwroot\\",
+>>>>>>> f9d49446e22249a439dc7490c4796654d6172518
       "BasePath": "_content/appPolnice",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -2635,10 +3415,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "appPolnice",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\",
+=======
+      "Identity": "C:\\code\\2022\\appPolnice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "SourceId": "appPolnice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\code\\2022\\appPolnice\\wwwroot\\",
+>>>>>>> f9d49446e22249a439dc7490c4796654d6172518
       "BasePath": "_content/appPolnice",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -2652,10 +3439,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "appPolnice",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\",
+=======
+      "Identity": "C:\\code\\2022\\appPolnice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "SourceId": "appPolnice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\code\\2022\\appPolnice\\wwwroot\\",
+>>>>>>> f9d49446e22249a439dc7490c4796654d6172518
       "BasePath": "_content/appPolnice",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -2669,10 +3463,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "appPolnice",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\",
+=======
+      "Identity": "C:\\code\\2022\\appPolnice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "SourceId": "appPolnice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\code\\2022\\appPolnice\\wwwroot\\",
+>>>>>>> f9d49446e22249a439dc7490c4796654d6172518
       "BasePath": "_content/appPolnice",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -2686,10 +3487,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "appPolnice",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\",
+=======
+      "Identity": "C:\\code\\2022\\appPolnice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "SourceId": "appPolnice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\code\\2022\\appPolnice\\wwwroot\\",
+>>>>>>> f9d49446e22249a439dc7490c4796654d6172518
       "BasePath": "_content/appPolnice",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -2703,10 +3511,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "appPolnice",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\",
+=======
+      "Identity": "C:\\code\\2022\\appPolnice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "SourceId": "appPolnice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\code\\2022\\appPolnice\\wwwroot\\",
+>>>>>>> f9d49446e22249a439dc7490c4796654d6172518
       "BasePath": "_content/appPolnice",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -2720,10 +3535,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "appPolnice",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\",
+=======
+      "Identity": "C:\\code\\2022\\appPolnice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "SourceId": "appPolnice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\code\\2022\\appPolnice\\wwwroot\\",
+>>>>>>> f9d49446e22249a439dc7490c4796654d6172518
       "BasePath": "_content/appPolnice",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -2737,10 +3559,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "appPolnice",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\",
+=======
+      "Identity": "C:\\code\\2022\\appPolnice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "SourceId": "appPolnice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\code\\2022\\appPolnice\\wwwroot\\",
+>>>>>>> f9d49446e22249a439dc7490c4796654d6172518
       "BasePath": "_content/appPolnice",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -2754,10 +3583,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "appPolnice",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\",
+=======
+      "Identity": "C:\\code\\2022\\appPolnice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "SourceId": "appPolnice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\code\\2022\\appPolnice\\wwwroot\\",
+>>>>>>> f9d49446e22249a439dc7490c4796654d6172518
       "BasePath": "_content/appPolnice",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -2771,10 +3607,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "appPolnice",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\",
+=======
+      "Identity": "C:\\code\\2022\\appPolnice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "SourceId": "appPolnice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\code\\2022\\appPolnice\\wwwroot\\",
+>>>>>>> f9d49446e22249a439dc7490c4796654d6172518
       "BasePath": "_content/appPolnice",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -2788,10 +3631,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "appPolnice",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\",
+=======
+      "Identity": "C:\\code\\2022\\appPolnice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "SourceId": "appPolnice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\code\\2022\\appPolnice\\wwwroot\\",
+>>>>>>> f9d49446e22249a439dc7490c4796654d6172518
       "BasePath": "_content/appPolnice",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -2805,10 +3655,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "appPolnice",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\",
+=======
+      "Identity": "C:\\code\\2022\\appPolnice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "SourceId": "appPolnice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\code\\2022\\appPolnice\\wwwroot\\",
+>>>>>>> f9d49446e22249a439dc7490c4796654d6172518
       "BasePath": "_content/appPolnice",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -2822,10 +3679,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "appPolnice",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\",
+=======
+      "Identity": "C:\\code\\2022\\appPolnice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "SourceId": "appPolnice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\code\\2022\\appPolnice\\wwwroot\\",
+>>>>>>> f9d49446e22249a439dc7490c4796654d6172518
       "BasePath": "_content/appPolnice",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -2839,10 +3703,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "appPolnice",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\",
+=======
+      "Identity": "C:\\code\\2022\\appPolnice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "SourceId": "appPolnice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\code\\2022\\appPolnice\\wwwroot\\",
+>>>>>>> f9d49446e22249a439dc7490c4796654d6172518
       "BasePath": "_content/appPolnice",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -2856,10 +3727,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "appPolnice",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\",
+=======
+      "Identity": "C:\\code\\2022\\appPolnice\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "SourceId": "appPolnice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\code\\2022\\appPolnice\\wwwroot\\",
+>>>>>>> f9d49446e22249a439dc7490c4796654d6172518
       "BasePath": "_content/appPolnice",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -2873,10 +3751,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "appPolnice",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\",
+=======
+      "Identity": "C:\\code\\2022\\appPolnice\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "SourceId": "appPolnice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\code\\2022\\appPolnice\\wwwroot\\",
+>>>>>>> f9d49446e22249a439dc7490c4796654d6172518
       "BasePath": "_content/appPolnice",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -2890,10 +3775,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "appPolnice",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\",
+=======
+      "Identity": "C:\\code\\2022\\appPolnice\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "SourceId": "appPolnice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\code\\2022\\appPolnice\\wwwroot\\",
+>>>>>>> f9d49446e22249a439dc7490c4796654d6172518
       "BasePath": "_content/appPolnice",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -2907,10 +3799,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "appPolnice",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\",
+=======
+      "Identity": "C:\\code\\2022\\appPolnice\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "SourceId": "appPolnice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\code\\2022\\appPolnice\\wwwroot\\",
+>>>>>>> f9d49446e22249a439dc7490c4796654d6172518
       "BasePath": "_content/appPolnice",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -2924,10 +3823,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "appPolnice",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\",
+=======
+      "Identity": "C:\\code\\2022\\appPolnice\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "SourceId": "appPolnice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\code\\2022\\appPolnice\\wwwroot\\",
+>>>>>>> f9d49446e22249a439dc7490c4796654d6172518
       "BasePath": "_content/appPolnice",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -2941,10 +3847,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "appPolnice",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\",
+=======
+      "Identity": "C:\\code\\2022\\appPolnice\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "SourceId": "appPolnice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\code\\2022\\appPolnice\\wwwroot\\",
+>>>>>>> f9d49446e22249a439dc7490c4796654d6172518
       "BasePath": "_content/appPolnice",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -2958,10 +3871,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "appPolnice",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\",
+=======
+      "Identity": "C:\\code\\2022\\appPolnice\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "SourceId": "appPolnice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\code\\2022\\appPolnice\\wwwroot\\",
+>>>>>>> f9d49446e22249a439dc7490c4796654d6172518
       "BasePath": "_content/appPolnice",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -2975,10 +3895,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "appPolnice",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\",
+=======
+      "Identity": "C:\\code\\2022\\appPolnice\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "SourceId": "appPolnice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\code\\2022\\appPolnice\\wwwroot\\",
+>>>>>>> f9d49446e22249a439dc7490c4796654d6172518
       "BasePath": "_content/appPolnice",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -2992,10 +3919,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "appPolnice",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\",
+=======
+      "Identity": "C:\\code\\2022\\appPolnice\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "SourceId": "appPolnice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\code\\2022\\appPolnice\\wwwroot\\",
+>>>>>>> f9d49446e22249a439dc7490c4796654d6172518
       "BasePath": "_content/appPolnice",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -3009,10 +3943,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "appPolnice",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\",
+=======
+      "Identity": "C:\\code\\2022\\appPolnice\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "SourceId": "appPolnice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\code\\2022\\appPolnice\\wwwroot\\",
+>>>>>>> f9d49446e22249a439dc7490c4796654d6172518
       "BasePath": "_content/appPolnice",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -3026,10 +3967,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "appPolnice",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\",
+=======
+      "Identity": "C:\\code\\2022\\appPolnice\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "SourceId": "appPolnice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\code\\2022\\appPolnice\\wwwroot\\",
+>>>>>>> f9d49446e22249a439dc7490c4796654d6172518
       "BasePath": "_content/appPolnice",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -3043,10 +3991,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "appPolnice",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\",
+=======
+      "Identity": "C:\\code\\2022\\appPolnice\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "SourceId": "appPolnice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\code\\2022\\appPolnice\\wwwroot\\",
+>>>>>>> f9d49446e22249a439dc7490c4796654d6172518
       "BasePath": "_content/appPolnice",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -3060,10 +4015,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "appPolnice",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\",
+=======
+      "Identity": "C:\\code\\2022\\appPolnice\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "SourceId": "appPolnice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\code\\2022\\appPolnice\\wwwroot\\",
+>>>>>>> f9d49446e22249a439dc7490c4796654d6172518
       "BasePath": "_content/appPolnice",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -3077,10 +4039,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "appPolnice",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\",
+=======
+      "Identity": "C:\\code\\2022\\appPolnice\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "SourceId": "appPolnice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\code\\2022\\appPolnice\\wwwroot\\",
+>>>>>>> f9d49446e22249a439dc7490c4796654d6172518
       "BasePath": "_content/appPolnice",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -3094,10 +4063,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "appPolnice",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\",
+=======
+      "Identity": "C:\\code\\2022\\appPolnice\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "SourceId": "appPolnice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\code\\2022\\appPolnice\\wwwroot\\",
+>>>>>>> f9d49446e22249a439dc7490c4796654d6172518
       "BasePath": "_content/appPolnice",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -3111,10 +4087,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "appPolnice",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\",
+=======
+      "Identity": "C:\\code\\2022\\appPolnice\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "SourceId": "appPolnice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\code\\2022\\appPolnice\\wwwroot\\",
+>>>>>>> f9d49446e22249a439dc7490c4796654d6172518
       "BasePath": "_content/appPolnice",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -3128,10 +4111,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "appPolnice",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\",
+=======
+      "Identity": "C:\\code\\2022\\appPolnice\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "SourceId": "appPolnice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\code\\2022\\appPolnice\\wwwroot\\",
+>>>>>>> f9d49446e22249a439dc7490c4796654d6172518
       "BasePath": "_content/appPolnice",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -3145,10 +4135,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "appPolnice",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\",
+=======
+      "Identity": "C:\\code\\2022\\appPolnice\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "SourceId": "appPolnice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\code\\2022\\appPolnice\\wwwroot\\",
+>>>>>>> f9d49446e22249a439dc7490c4796654d6172518
       "BasePath": "_content/appPolnice",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -3162,10 +4159,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "appPolnice",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\",
+=======
+      "Identity": "C:\\code\\2022\\appPolnice\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "SourceId": "appPolnice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\code\\2022\\appPolnice\\wwwroot\\",
+>>>>>>> f9d49446e22249a439dc7490c4796654d6172518
       "BasePath": "_content/appPolnice",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -3179,10 +4183,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "appPolnice",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\",
+=======
+      "Identity": "C:\\code\\2022\\appPolnice\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "SourceId": "appPolnice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\code\\2022\\appPolnice\\wwwroot\\",
+>>>>>>> f9d49446e22249a439dc7490c4796654d6172518
       "BasePath": "_content/appPolnice",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -3196,10 +4207,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "appPolnice",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\",
+=======
+      "Identity": "C:\\code\\2022\\appPolnice\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "SourceId": "appPolnice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\code\\2022\\appPolnice\\wwwroot\\",
+>>>>>>> f9d49446e22249a439dc7490c4796654d6172518
       "BasePath": "_content/appPolnice",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -3213,10 +4231,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "appPolnice",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\",
+=======
+      "Identity": "C:\\code\\2022\\appPolnice\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "SourceId": "appPolnice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\code\\2022\\appPolnice\\wwwroot\\",
+>>>>>>> f9d49446e22249a439dc7490c4796654d6172518
       "BasePath": "_content/appPolnice",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -3230,10 +4255,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "appPolnice",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\",
+=======
+      "Identity": "C:\\code\\2022\\appPolnice\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "SourceId": "appPolnice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\code\\2022\\appPolnice\\wwwroot\\",
+>>>>>>> f9d49446e22249a439dc7490c4796654d6172518
       "BasePath": "_content/appPolnice",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -3247,10 +4279,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "appPolnice",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\",
+=======
+      "Identity": "C:\\code\\2022\\appPolnice\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "SourceId": "appPolnice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\code\\2022\\appPolnice\\wwwroot\\",
+>>>>>>> f9d49446e22249a439dc7490c4796654d6172518
       "BasePath": "_content/appPolnice",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -3264,10 +4303,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "appPolnice",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\wwwroot\\",
+=======
+      "Identity": "C:\\code\\2022\\appPolnice\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "SourceId": "appPolnice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\code\\2022\\appPolnice\\wwwroot\\",
+>>>>>>> f9d49446e22249a439dc7490c4796654d6172518
       "BasePath": "_content/appPolnice",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -3279,6 +4325,1026 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Identity": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\css\\site.css",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "css/site.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\css\\site.css"
+    },
+    {
+      "Identity": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\favicon.ico",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "favicon.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\js\\site.js",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "js/site.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\js\\site.js"
+    },
+    {
+      "Identity": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Identity": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Identity": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Identity": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Identity": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Identity": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Identity": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Identity": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Identity": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Identity": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Identity": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Identity": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Identity": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Identity": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Identity": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Identity": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Identity": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Identity": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\LICENSE",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "lib/bootstrap/LICENSE",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\LICENSE"
+    },
+    {
+      "Identity": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Identity": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Identity": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Identity": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Identity": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\jquery-validation\\LICENSE.md",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "lib/jquery-validation/LICENSE.md",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Identity": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.js",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "lib/jquery/dist/jquery.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Identity": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.js",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "lib/jquery/dist/jquery.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.map",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "lib/jquery/dist/jquery.min.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Identity": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\jquery\\LICENSE.txt",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "lib/jquery/LICENSE.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\diana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\jquery\\LICENSE.txt"
     }
   ]
 }
