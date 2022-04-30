@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "B7d9diujbuVmDwMEeO+v6+y10Sk/GgdUkC1Asz058zE=",
+  "Hash": "+zwd1d/tFCFidi72wkMfOOgtgEnsLHYeG353T4V0PkQ=",
   "Source": "appPolnice",
   "BasePath": "_content/appPolnice",
   "Mode": "Default",
@@ -2242,6 +2242,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\imagen7.JPG"
+    },
+    {
+      "Identity": "C:\\Users\\ALEXANDRA\\OneDrive\\Escritorio\\Polnice\\appPolnice\\wwwroot\\images\\imagen70.jpg",
+      "SourceId": "appPolnice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ALEXANDRA\\OneDrive\\Escritorio\\Polnice\\appPolnice\\wwwroot\\",
+      "BasePath": "_content/appPolnice",
+      "RelativePath": "images/imagen70.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\imagen70.jpg"
     },
     {
       "Identity": "C:\\Users\\ALEXANDRA\\OneDrive\\Escritorio\\Polnice\\appPolnice\\wwwroot\\images\\imagen8.JPG",
