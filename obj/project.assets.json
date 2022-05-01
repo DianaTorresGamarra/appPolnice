@@ -9926,16 +9926,11 @@
     ]
   },
   "packageFolders": {
-<<<<<<< HEAD
     "C:\\Users\\marca\\.nuget\\packages\\": {}
-=======
-    "C:\\Users\\diana\\.nuget\\packages\\": {}
->>>>>>> f9d49446e22249a439dc7490c4796654d6172518
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\appPolnice.csproj",
       "projectName": "appPolnice",
       "projectPath": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\appPolnice.csproj",
@@ -9944,16 +9939,6 @@
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\marca\\AppData\\Roaming\\NuGet\\NuGet.Config"
-=======
-      "projectUniqueName": "c:\\code\\2022\\appPolnice\\appPolnice.csproj",
-      "projectName": "appPolnice",
-      "projectPath": "c:\\code\\2022\\appPolnice\\appPolnice.csproj",
-      "packagesPath": "C:\\Users\\diana\\.nuget\\packages\\",
-      "outputPath": "c:\\code\\2022\\appPolnice\\obj\\",
-      "projectStyle": "PackageReference",
-      "configFilePaths": [
-        "C:\\Users\\diana\\AppData\\Roaming\\NuGet\\NuGet.Config"
->>>>>>> f9d49446e22249a439dc7490c4796654d6172518
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -10024,16 +10009,8 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problem reading the cache file C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  }
 }
