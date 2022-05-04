@@ -8,8 +8,9 @@
         Decimal montoTotal = @Model.montoTotal;
 }
 
-<h1>@ViewData["Title"]</h1>
+<h1><img src="/images/CC.png" class="img-fluid" alt="" width="45px" heigh="45px">     @ViewData["Title"]</h1>
 
+<h2>RESUMEN DE PEDIDO<h2/>
         <div class="container" >
         <div id="contenedor-tabla" class="table-responsive-md">
 <table class="table table-striped" style="font-size: 18px;">
@@ -34,7 +35,7 @@
                 @Html.DisplayFor(modelItem => item.Producto.Name)
             </td>
             <td>
-                <center>@Html.DisplayFor(modelItem => item.Cantidad)</center>
+                @Html.DisplayFor(modelItem => item.Cantidad)
             </td>
             <td>
                 @Html.DisplayFor(modelItem => item.Precio)                
