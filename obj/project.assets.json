@@ -9931,19 +9931,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-<<<<<<< HEAD
-      "projectUniqueName": "C:\\code\\2022\\appPolnice\\appPolnice.csproj",
-      "projectName": "appPolnice",
-      "projectPath": "C:\\code\\2022\\appPolnice\\appPolnice.csproj",
-      "packagesPath": "C:\\Users\\diana\\.nuget\\packages\\",
-      "outputPath": "C:\\code\\2022\\appPolnice\\obj\\",
-=======
       "projectUniqueName": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\appPolnice.csproj",
       "projectName": "appPolnice",
       "projectPath": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\appPolnice.csproj",
       "packagesPath": "C:\\Users\\marca\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\obj\\",
->>>>>>> 4c8dc8d5a1ba5f537721a676815df6d6d3177ae0
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\marca\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,14 +1,8 @@
 {
   "version": 2,
-<<<<<<< HEAD
-  "dgSpecHash": "eV/j43FBqNALWuxA6teIsy6+VRoElU7H5IJua12YslQFrqmiOrWS5UYnaTsQvEXWahzKU0KDDDX8j+GqeIc8lQ==",
-  "success": true,
-  "projectFilePath": "C:\\code\\2022\\appPolnice\\appPolnice.csproj",
-=======
   "dgSpecHash": "+82hUryOhzGdKqsZOHrTkQM4POpsaMru2Rtb0lMbDHLS2/npmHyyGNSqGhLgCEfNNljmGK8WjuYJyDM4ZHgJ/w==",
   "success": true,
   "projectFilePath": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\appPolnice.csproj",
->>>>>>> 4c8dc8d5a1ba5f537721a676815df6d6d3177ae0
   "expectedPackageFiles": [
     "C:\\Users\\marca\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\marca\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
