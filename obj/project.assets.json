@@ -9927,7 +9927,11 @@
   },
   "packageFolders": {
 <<<<<<< HEAD
+<<<<<<< HEAD
     "C:\\Users\\ALEXANDRA\\.nuget\\packages\\": {}
+=======
+    "C:\\Users\\diana\\.nuget\\packages\\": {}
+>>>>>>> f6d5f2efad2ae6885aacd35f936b0bf6c4fe8469
 =======
     "C:\\Users\\diana\\.nuget\\packages\\": {}
 >>>>>>> f6d5f2efad2ae6885aacd35f936b0bf6c4fe8469
@@ -9936,7 +9940,11 @@
     "version": "1.0.0",
     "restore": {
 <<<<<<< HEAD
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\ALEXANDRA\\OneDrive\\Escritorio\\appPolnice\\appPolnice\\appPolnice.csproj",
+=======
+      "projectUniqueName": "C:\\code\\2022\\appPolnice\\appPolnice.csproj",
+>>>>>>> f6d5f2efad2ae6885aacd35f936b0bf6c4fe8469
 =======
       "projectUniqueName": "C:\\code\\2022\\appPolnice\\appPolnice.csproj",
 >>>>>>> f6d5f2efad2ae6885aacd35f936b0bf6c4fe8469
@@ -9947,7 +9955,11 @@
       "projectStyle": "PackageReference",
       "configFilePaths": [
 <<<<<<< HEAD
+<<<<<<< HEAD
         "C:\\Users\\ALEXANDRA\\AppData\\Roaming\\NuGet\\NuGet.Config"
+=======
+        "C:\\Users\\diana\\AppData\\Roaming\\NuGet\\NuGet.Config"
+>>>>>>> f6d5f2efad2ae6885aacd35f936b0bf6c4fe8469
 =======
         "C:\\Users\\diana\\AppData\\Roaming\\NuGet\\NuGet.Config"
 >>>>>>> f6d5f2efad2ae6885aacd35f936b0bf6c4fe8469
