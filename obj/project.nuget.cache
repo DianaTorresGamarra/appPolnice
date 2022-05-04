@@ -1,20 +1,8 @@
 {
   "version": 2,
-<<<<<<< HEAD
   "dgSpecHash": "eV/j43FBqNALWuxA6teIsy6+VRoElU7H5IJua12YslQFrqmiOrWS5UYnaTsQvEXWahzKU0KDDDX8j+GqeIc8lQ==",
   "success": true,
   "projectFilePath": "C:\\code\\2022\\appPolnice\\appPolnice.csproj",
-=======
-<<<<<<< HEAD
-  "dgSpecHash": "zlUYJ8n3Sa4Bh1yw9rNOdQqBMf+bT8LBqTUfp4XsqMm/iynOudFm3OR7shMw16HbO/RwneITy0wc6kCYzRlp7A==",
-  "success": true,
-  "projectFilePath": "C:\\Users\\ALEXANDRA\\OneDrive\\Escritorio\\appPolnice\\appPolnice\\appPolnice.csproj",
-=======
-  "dgSpecHash": "mLtLkjEhS0eL7bWqEJyFTDRmMm0Ag3wYcpadCfVcwK47c8S4QIjvV+3XL/zbiaB+k1SZNzo6TrBZ4u7kSS7FBg==",
-  "success": true,
-  "projectFilePath": "c:\\Users\\ALEXANDRA\\OneDrive\\Escritorio\\appPolnice\\appPolnice\\appPolnice.csproj",
->>>>>>> 8c1748835b3461a80c6db09fe6d50e060149c626
->>>>>>> 57e4824626e3bafa34efa0b40cb85baf67145f7c
   "expectedPackageFiles": [
     "C:\\Users\\diana\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\diana\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
