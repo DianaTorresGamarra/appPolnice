@@ -16298,11 +16298,98 @@
   "RootNamespace": "appPolnice",
   "Documents": [
     {
+<<<<<<< HEAD
+      "FilePath": "c:\\Users\\ALEXANDRA\\OneDrive\\Escritorio\\appPolnice\\appPolnice\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ALEXANDRA\\OneDrive\\Escritorio\\appPolnice\\appPolnice\\Views\\Contacto\\Index.cshtml",
+      "TargetPath": "Views\\Contacto\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ALEXANDRA\\OneDrive\\Escritorio\\appPolnice\\appPolnice\\Views\\_ViewStart.cshtml",
+      "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ALEXANDRA\\OneDrive\\Escritorio\\appPolnice\\appPolnice\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+      "TargetPath": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ALEXANDRA\\OneDrive\\Escritorio\\appPolnice\\appPolnice\\Views\\Home\\Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ALEXANDRA\\OneDrive\\Escritorio\\appPolnice\\appPolnice\\Views\\Shared\\_LoginPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_LoginPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ALEXANDRA\\OneDrive\\Escritorio\\appPolnice\\appPolnice\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ALEXANDRA\\OneDrive\\Escritorio\\appPolnice\\appPolnice\\Views\\Catalogo\\Index.cshtml",
+      "TargetPath": "Views\\Catalogo\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ALEXANDRA\\OneDrive\\Escritorio\\appPolnice\\appPolnice\\Views\\Catalogo\\Details.cshtml",
+      "TargetPath": "Views\\Catalogo\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ALEXANDRA\\OneDrive\\Escritorio\\appPolnice\\appPolnice\\Views\\Proforma\\Index.cshtml",
+      "TargetPath": "Views\\Proforma\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ALEXANDRA\\OneDrive\\Escritorio\\appPolnice\\appPolnice\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+      "TargetPath": "Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ALEXANDRA\\OneDrive\\Escritorio\\appPolnice\\appPolnice\\Views\\Shared\\Error.cshtml",
+      "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ALEXANDRA\\OneDrive\\Escritorio\\appPolnice\\appPolnice\\Views\\Nosotros\\Index.cshtml",
+      "TargetPath": "Views\\Nosotros\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ALEXANDRA\\OneDrive\\Escritorio\\appPolnice\\appPolnice\\Views\\_ViewImports.cshtml",
+      "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ALEXANDRA\\OneDrive\\Escritorio\\appPolnice\\appPolnice\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+      "TargetPath": "Areas\\Identity\\Pages\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ALEXANDRA\\OneDrive\\Escritorio\\appPolnice\\appPolnice\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+=======
       "FilePath": "c:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+>>>>>>> d7d7602774c52675f10a39ecb57d4ead74737e64
       "TargetPath": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
       "FileKind": "mvc"
     },
     {
+<<<<<<< HEAD
+      "FilePath": "c:\\Users\\ALEXANDRA\\OneDrive\\Escritorio\\appPolnice\\appPolnice\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+      "TargetPath": "Areas\\Identity\\Pages\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ALEXANDRA\\OneDrive\\Escritorio\\appPolnice\\appPolnice\\Views\\Home\\Privacy.cshtml",
+=======
       "FilePath": "c:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
@@ -16329,10 +16416,16 @@
     },
     {
       "FilePath": "c:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\Views\\Home\\Privacy.cshtml",
+>>>>>>> d7d7602774c52675f10a39ecb57d4ead74737e64
       "TargetPath": "Views\\Home\\Privacy.cshtml",
       "FileKind": "mvc"
     },
     {
+<<<<<<< HEAD
+      "FilePath": "c:\\Users\\ALEXANDRA\\OneDrive\\Escritorio\\appPolnice\\appPolnice\\Views\\Shared\\_Layout.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+=======
       "FilePath": "c:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
@@ -16391,6 +16484,7 @@
       "FilePath": "c:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\Views\\Contacto\\Index.cshtml",
       "TargetPath": "Views\\Contacto\\Index.cshtml",
       "FileKind": "mvc"
+>>>>>>> d7d7602774c52675f10a39ecb57d4ead74737e64
     }
   ],
   "SerializationFormat": "0.2"
