@@ -1,7 +1,12 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\code\\2022\\appPolnice\\appPolnice.csproj": {}
+=======
+<<<<<<< HEAD
+    "C:\\Users\\ALEXANDRA\\OneDrive\\Escritorio\\appPolnice\\appPolnice\\appPolnice.csproj": {}
+>>>>>>> 57e4824626e3bafa34efa0b40cb85baf67145f7c
   },
   "projects": {
     "C:\\code\\2022\\appPolnice\\appPolnice.csproj": {
@@ -9,9 +14,28 @@
       "restore": {
         "projectUniqueName": "C:\\code\\2022\\appPolnice\\appPolnice.csproj",
         "projectName": "appPolnice",
+<<<<<<< HEAD
         "projectPath": "C:\\code\\2022\\appPolnice\\appPolnice.csproj",
         "packagesPath": "C:\\Users\\diana\\.nuget\\packages\\",
         "outputPath": "C:\\code\\2022\\appPolnice\\obj\\",
+=======
+        "projectPath": "C:\\Users\\ALEXANDRA\\OneDrive\\Escritorio\\appPolnice\\appPolnice\\appPolnice.csproj",
+        "packagesPath": "C:\\Users\\ALEXANDRA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ALEXANDRA\\OneDrive\\Escritorio\\appPolnice\\appPolnice\\obj\\",
+=======
+    "c:\\Users\\ALEXANDRA\\OneDrive\\Escritorio\\appPolnice\\appPolnice\\appPolnice.csproj": {}
+  },
+  "projects": {
+    "c:\\Users\\ALEXANDRA\\OneDrive\\Escritorio\\appPolnice\\appPolnice\\appPolnice.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\ALEXANDRA\\OneDrive\\Escritorio\\appPolnice\\appPolnice\\appPolnice.csproj",
+        "projectName": "appPolnice",
+        "projectPath": "c:\\Users\\ALEXANDRA\\OneDrive\\Escritorio\\appPolnice\\appPolnice\\appPolnice.csproj",
+        "packagesPath": "C:\\Users\\ALEXANDRA\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\ALEXANDRA\\OneDrive\\Escritorio\\appPolnice\\appPolnice\\obj\\",
+>>>>>>> 8c1748835b3461a80c6db09fe6d50e060149c626
+>>>>>>> 57e4824626e3bafa34efa0b40cb85baf67145f7c
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\diana\\AppData\\Roaming\\NuGet\\NuGet.Config"
