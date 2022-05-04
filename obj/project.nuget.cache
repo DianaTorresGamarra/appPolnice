@@ -2,9 +2,15 @@
   "version": 2,
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   "dgSpecHash": "zlUYJ8n3Sa4Bh1yw9rNOdQqBMf+bT8LBqTUfp4XsqMm/iynOudFm3OR7shMw16HbO/RwneITy0wc6kCYzRlp7A==",
   "success": true,
   "projectFilePath": "C:\\Users\\ALEXANDRA\\OneDrive\\Escritorio\\appPolnice\\appPolnice\\appPolnice.csproj",
+=======
+  "dgSpecHash": "34Da7MRTP5/IYyGd1J4ZBxZZFSNH9NuDMtGPZhiX0iixHsU06/LD8PmqSECbTSB4RHJrxMkfTLVyi7KR3ExMzQ==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\ALEXANDRA\\OneDrive\\Escritorio\\Polnice\\appPolnice\\appPolnice.csproj",
+>>>>>>> fb6ff003e53418729f72bcff54fe4690e394c836
   "expectedPackageFiles": [
     "C:\\Users\\ALEXANDRA\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\ALEXANDRA\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
