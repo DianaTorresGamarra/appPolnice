@@ -16303,11 +16303,14 @@
       "FileKind": "mvc"
     },
     {
+<<<<<<< HEAD
       "FilePath": "c:\\Users\\ALEXANDRA\\OneDrive\\Escritorio\\appPolnice\\appPolnice\\Views\\Contacto\\Index.cshtml",
       "TargetPath": "Views\\Contacto\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
+=======
+>>>>>>> 8c1748835b3461a80c6db09fe6d50e060149c626
       "FilePath": "c:\\Users\\ALEXANDRA\\OneDrive\\Escritorio\\appPolnice\\appPolnice\\Views\\_ViewStart.cshtml",
       "TargetPath": "Views\\_ViewStart.cshtml",
       "FileKind": "mvc"
@@ -16343,11 +16346,14 @@
       "FileKind": "mvc"
     },
     {
+<<<<<<< HEAD
       "FilePath": "c:\\Users\\ALEXANDRA\\OneDrive\\Escritorio\\appPolnice\\appPolnice\\Views\\Proforma\\Index.cshtml",
       "TargetPath": "Views\\Proforma\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
+=======
+>>>>>>> 8c1748835b3461a80c6db09fe6d50e060149c626
       "FilePath": "c:\\Users\\ALEXANDRA\\OneDrive\\Escritorio\\appPolnice\\appPolnice\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
       "TargetPath": "Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
       "FileKind": "mvc"
@@ -16358,11 +16364,14 @@
       "FileKind": "mvc"
     },
     {
+<<<<<<< HEAD
       "FilePath": "c:\\Users\\ALEXANDRA\\OneDrive\\Escritorio\\appPolnice\\appPolnice\\Views\\Nosotros\\Index.cshtml",
       "TargetPath": "Views\\Nosotros\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
+=======
+>>>>>>> 8c1748835b3461a80c6db09fe6d50e060149c626
       "FilePath": "c:\\Users\\ALEXANDRA\\OneDrive\\Escritorio\\appPolnice\\appPolnice\\Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
       "FileKind": "mvc"
