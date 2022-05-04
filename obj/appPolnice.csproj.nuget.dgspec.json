@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\Users\\ALEXANDRA\\OneDrive\\Escritorio\\appPolnice\\appPolnice\\appPolnice.csproj": {}
   },
   "projects": {
@@ -15,6 +16,22 @@
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ALEXANDRA\\AppData\\Roaming\\NuGet\\NuGet.Config"
+=======
+    "C:\\code\\2022\\appPolnice\\appPolnice.csproj": {}
+  },
+  "projects": {
+    "C:\\code\\2022\\appPolnice\\appPolnice.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\code\\2022\\appPolnice\\appPolnice.csproj",
+        "projectName": "appPolnice",
+        "projectPath": "C:\\code\\2022\\appPolnice\\appPolnice.csproj",
+        "packagesPath": "C:\\Users\\diana\\.nuget\\packages\\",
+        "outputPath": "C:\\code\\2022\\appPolnice\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\diana\\AppData\\Roaming\\NuGet\\NuGet.Config"
+>>>>>>> f6d5f2efad2ae6885aacd35f936b0bf6c4fe8469
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -85,7 +102,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
