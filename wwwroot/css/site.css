@@ -16,18 +16,3 @@ html {
 body {
   margin-bottom: 60px;
 }
-
-.form{
-  background: #d4ccdb;
-  padding: 40px 35px;
-  border-radius: 20px; 
-  
-}
-
-@media (max-width:575.98px){
-.form{
-  width: 95%;    
-}
-}
-
-
