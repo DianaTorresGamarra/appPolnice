@@ -20,5 +20,15 @@ body {
 .form{
   background: #E0D8E7;
   padding: 40px 35px;
+<<<<<<< HEAD
   border-radius: 20px;   
+=======
+  border-radius: 20px;
+}
+
+@media (max-width:575.98px){
+  .form{
+    width: 95%;    
+  }
+>>>>>>> ec2f0dee3940c1af6fe4a265928ac913876cf59f
 }
