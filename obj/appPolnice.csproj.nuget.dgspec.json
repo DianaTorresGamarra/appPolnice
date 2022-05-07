@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\code\\2022\\appPolnice\\appPolnice.csproj": {}
   },
   "projects": {
@@ -15,11 +16,29 @@
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\diana\\AppData\\Roaming\\NuGet\\NuGet.Config"
+=======
+    "c:\\Users\\Inteligo\\Code\\netcore\\usmp\\20221\\appPolnice\\appPolnice.csproj": {}
+  },
+  "projects": {
+    "c:\\Users\\Inteligo\\Code\\netcore\\usmp\\20221\\appPolnice\\appPolnice.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\Inteligo\\Code\\netcore\\usmp\\20221\\appPolnice\\appPolnice.csproj",
+        "projectName": "appPolnice",
+        "projectPath": "c:\\Users\\Inteligo\\Code\\netcore\\usmp\\20221\\appPolnice\\appPolnice.csproj",
+        "packagesPath": "C:\\Users\\Inteligo\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\Inteligo\\Code\\netcore\\usmp\\20221\\appPolnice\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Inteligo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+>>>>>>> a194d7c6cf977138af9cadc3f2d4fd68a343ffef
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -85,7 +104,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }
