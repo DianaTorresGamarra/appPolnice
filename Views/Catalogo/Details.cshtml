@@ -4,13 +4,15 @@
     ViewData["Title"] = "Detalles del Producto";
 }
 
-    <h1>Details</h1>
+<a class="btn btn-primary" asp-action="Index">Volver al catálogo</a>
+
+    <h1>Detalle del Producto Polnice</h1>
     <div class="container">
             <div class="col-sm-4">
               <div class="card mb-3">
                 <div class="card-body">
                   <div class="card-img-actions">
-                    <img class="img-responsive" width="96" height="150"
+                    <img class="img-responsive" width="400" height="550"
                        src="/images/@Html.DisplayFor(model => model.ImageName)" alt="@Html.DisplayFor(model => model.ImageName)"  />
                   </div>
                 </div>

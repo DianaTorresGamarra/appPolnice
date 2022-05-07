@@ -8,10 +8,11 @@
 
 <div class="create mt-5">
     
-        <form class="row" asp-route-returnUrl="@Model.ReturnUrl" method="post">
+        <form class="row" asp-route-returnUrl="@Model.ReturnUrl" method="post" style="margin: auto; width: 500px;">
             
-            <fieldset>
-
+            <fieldset class="form">
+                
+            
             <h3 class="text-center" >Crear una nueva cuenta</h3>
            
             <div asp-validation-summary="All" class="text-danger"></div>
@@ -38,7 +39,7 @@
             <button type="submit" class="btn btn-primary">Registrar</button>
 
             </div>
-
+            
             </fieldset>
 
         </form>
