@@ -9926,76 +9926,26 @@
     ]
   },
   "packageFolders": {
-<<<<<<< HEAD
-    "C:\\Users\\marca\\.nuget\\packages\\": {}
-=======
-<<<<<<< HEAD
-    "C:\\Users\\diana\\.nuget\\packages\\": {}
-=======
-<<<<<<< HEAD
-    "C:\\Users\\marca\\.nuget\\packages\\": {}
-=======
-<<<<<<< HEAD
-    "C:\\Users\\ALEXANDRA\\.nuget\\packages\\": {}
-=======
-    "C:\\Users\\User\\.nuget\\packages\\": {}
->>>>>>> 707dcb19fd24935a815a32c09b5c211d65589322
->>>>>>> e85f8f61e0e5385c904af48db97b70c77ad8cbc2
->>>>>>> d0482371b30b5e5c60f769fe081ab49a088b6168
->>>>>>> 597c87b33df5be7e07e74962451d4b818213bb68
+    "C:\\Users\\Inteligo\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-      "projectUniqueName": "C:\\code\\2022\\appPolnice\\appPolnice.csproj",
-=======
-<<<<<<< HEAD
->>>>>>> 597c87b33df5be7e07e74962451d4b818213bb68
-      "projectUniqueName": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\appPolnice.csproj",
+      "projectUniqueName": "c:\\Users\\Inteligo\\Code\\netcore\\usmp\\20221\\appPolnice\\appPolnice.csproj",
       "projectName": "appPolnice",
-      "projectPath": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\appPolnice.csproj",
-      "packagesPath": "C:\\Users\\marca\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\marca\\OneDrive\\Escritorio\\app_progra\\appPolnice\\obj\\",
+      "projectPath": "c:\\Users\\Inteligo\\Code\\netcore\\usmp\\20221\\appPolnice\\appPolnice.csproj",
+      "packagesPath": "C:\\Users\\Inteligo\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\Inteligo\\Code\\netcore\\usmp\\20221\\appPolnice\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\marca\\AppData\\Roaming\\NuGet\\NuGet.Config"
-<<<<<<< HEAD
-=======
-=======
-<<<<<<< HEAD
-      "projectUniqueName": "C:\\Users\\ALEXANDRA\\OneDrive\\Escritorio\\appPolnice\\appPolnice\\appPolnice.csproj",
->>>>>>> d0482371b30b5e5c60f769fe081ab49a088b6168
-      "projectName": "appPolnice",
-      "projectPath": "C:\\code\\2022\\appPolnice\\appPolnice.csproj",
-      "packagesPath": "C:\\Users\\diana\\.nuget\\packages\\",
-      "outputPath": "C:\\code\\2022\\appPolnice\\obj\\",
-      "projectStyle": "PackageReference",
-      "configFilePaths": [
-<<<<<<< HEAD
-        "C:\\Users\\diana\\AppData\\Roaming\\NuGet\\NuGet.Config"
-=======
-        "C:\\Users\\ALEXANDRA\\AppData\\Roaming\\NuGet\\NuGet.Config"
-=======
-      "projectUniqueName": "c:\\Users\\User\\Desktop\\FIN\\appPolnice\\appPolnice.csproj",
-      "projectName": "appPolnice",
-      "projectPath": "c:\\Users\\User\\Desktop\\FIN\\appPolnice\\appPolnice.csproj",
-      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\User\\Desktop\\FIN\\appPolnice\\obj\\",
-      "projectStyle": "PackageReference",
-      "configFilePaths": [
-        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
->>>>>>> 707dcb19fd24935a815a32c09b5c211d65589322
->>>>>>> e85f8f61e0e5385c904af48db97b70c77ad8cbc2
->>>>>>> d0482371b30b5e5c60f769fe081ab49a088b6168
->>>>>>> 597c87b33df5be7e07e74962451d4b818213bb68
+        "C:\\Users\\Inteligo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -10061,8 +10011,16 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file c:\\Users\\Inteligo\\Code\\netcore\\usmp\\20221\\appPolnice\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
