@@ -6,26 +6,38 @@
     <ProjectAssetsFile Condition=" '$(ProjectAssetsFile)' == '' ">$(MSBuildThisFileDirectory)project.assets.json</ProjectAssetsFile>
     <NuGetPackageRoot Condition=" '$(NuGetPackageRoot)' == '' ">$(UserProfile)\.nuget\packages\</NuGetPackageRoot>
 <<<<<<< HEAD
+<<<<<<< HEAD
     <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\marca\.nuget\packages\</NuGetPackageFolders>
 =======
 <<<<<<< HEAD
+=======
+>>>>>>> e85f8f61e0e5385c904af48db97b70c77ad8cbc2
     <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\ALEXANDRA\.nuget\packages\</NuGetPackageFolders>
 =======
     <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\User\.nuget\packages\</NuGetPackageFolders>
 >>>>>>> 707dcb19fd24935a815a32c09b5c211d65589322
+<<<<<<< HEAD
+>>>>>>> e85f8f61e0e5385c904af48db97b70c77ad8cbc2
+=======
 >>>>>>> e85f8f61e0e5385c904af48db97b70c77ad8cbc2
     <NuGetProjectStyle Condition=" '$(NuGetProjectStyle)' == '' ">PackageReference</NuGetProjectStyle>
     <NuGetToolVersion Condition=" '$(NuGetToolVersion)' == '' ">6.1.0</NuGetToolVersion>
   </PropertyGroup>
   <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
 <<<<<<< HEAD
+<<<<<<< HEAD
     <SourceRoot Include="C:\Users\marca\.nuget\packages\" />
 =======
 <<<<<<< HEAD
+=======
+>>>>>>> e85f8f61e0e5385c904af48db97b70c77ad8cbc2
     <SourceRoot Include="C:\Users\ALEXANDRA\.nuget\packages\" />
 =======
     <SourceRoot Include="C:\Users\User\.nuget\packages\" />
 >>>>>>> 707dcb19fd24935a815a32c09b5c211d65589322
+<<<<<<< HEAD
+>>>>>>> e85f8f61e0e5385c904af48db97b70c77ad8cbc2
+=======
 >>>>>>> e85f8f61e0e5385c904af48db97b70c77ad8cbc2
   </ItemGroup>
   <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
@@ -34,12 +46,15 @@
   </ImportGroup>
   <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
 <<<<<<< HEAD
+<<<<<<< HEAD
     <PkgMessagePackAnalyzer Condition=" '$(PkgMessagePackAnalyzer)' == '' ">C:\Users\marca\.nuget\packages\messagepackanalyzer\2.1.152</PkgMessagePackAnalyzer>
     <PkgMicrosoft_CodeAnalysis_Analyzers Condition=" '$(PkgMicrosoft_CodeAnalysis_Analyzers)' == '' ">C:\Users\marca\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2</PkgMicrosoft_CodeAnalysis_Analyzers>
     <PkgMicrosoft_CodeAnalysis_AnalyzerUtilities Condition=" '$(PkgMicrosoft_CodeAnalysis_AnalyzerUtilities)' == '' ">C:\Users\marca\.nuget\packages\microsoft.codeanalysis.analyzerutilities\3.3.0</PkgMicrosoft_CodeAnalysis_AnalyzerUtilities>
     <PkgMicrosoft_EntityFrameworkCore_Tools Condition=" '$(PkgMicrosoft_EntityFrameworkCore_Tools)' == '' ">C:\Users\marca\.nuget\packages\microsoft.entityframeworkcore.tools\6.0.3</PkgMicrosoft_EntityFrameworkCore_Tools>
 =======
 <<<<<<< HEAD
+=======
+>>>>>>> e85f8f61e0e5385c904af48db97b70c77ad8cbc2
     <PkgMessagePackAnalyzer Condition=" '$(PkgMessagePackAnalyzer)' == '' ">C:\Users\ALEXANDRA\.nuget\packages\messagepackanalyzer\2.1.152</PkgMessagePackAnalyzer>
     <PkgMicrosoft_CodeAnalysis_Analyzers Condition=" '$(PkgMicrosoft_CodeAnalysis_Analyzers)' == '' ">C:\Users\ALEXANDRA\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2</PkgMicrosoft_CodeAnalysis_Analyzers>
     <PkgMicrosoft_CodeAnalysis_AnalyzerUtilities Condition=" '$(PkgMicrosoft_CodeAnalysis_AnalyzerUtilities)' == '' ">C:\Users\ALEXANDRA\.nuget\packages\microsoft.codeanalysis.analyzerutilities\3.3.0</PkgMicrosoft_CodeAnalysis_AnalyzerUtilities>
@@ -50,6 +65,9 @@
     <PkgMicrosoft_CodeAnalysis_AnalyzerUtilities Condition=" '$(PkgMicrosoft_CodeAnalysis_AnalyzerUtilities)' == '' ">C:\Users\User\.nuget\packages\microsoft.codeanalysis.analyzerutilities\3.3.0</PkgMicrosoft_CodeAnalysis_AnalyzerUtilities>
     <PkgMicrosoft_EntityFrameworkCore_Tools Condition=" '$(PkgMicrosoft_EntityFrameworkCore_Tools)' == '' ">C:\Users\User\.nuget\packages\microsoft.entityframeworkcore.tools\6.0.3</PkgMicrosoft_EntityFrameworkCore_Tools>
 >>>>>>> 707dcb19fd24935a815a32c09b5c211d65589322
+<<<<<<< HEAD
+>>>>>>> e85f8f61e0e5385c904af48db97b70c77ad8cbc2
+=======
 >>>>>>> e85f8f61e0e5385c904af48db97b70c77ad8cbc2
   </PropertyGroup>
 </Project>
