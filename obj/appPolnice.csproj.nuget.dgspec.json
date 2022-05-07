@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\code\\2022\\appPolnice\\appPolnice.csproj": {}
+    "c:\\code\\2022\\appPolnice\\appPolnice.csproj": {}
   },
   "projects": {
-    "C:\\code\\2022\\appPolnice\\appPolnice.csproj": {
+    "c:\\code\\2022\\appPolnice\\appPolnice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\code\\2022\\appPolnice\\appPolnice.csproj",
+        "projectUniqueName": "c:\\code\\2022\\appPolnice\\appPolnice.csproj",
         "projectName": "appPolnice",
-        "projectPath": "C:\\code\\2022\\appPolnice\\appPolnice.csproj",
+        "projectPath": "c:\\code\\2022\\appPolnice\\appPolnice.csproj",
         "packagesPath": "C:\\Users\\diana\\.nuget\\packages\\",
-        "outputPath": "C:\\code\\2022\\appPolnice\\obj\\",
+        "outputPath": "c:\\code\\2022\\appPolnice\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\diana\\AppData\\Roaming\\NuGet\\NuGet.Config"
