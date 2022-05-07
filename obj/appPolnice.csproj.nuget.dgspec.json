@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Desktop\\FIN\\appPolnice\\appPolnice.csproj": {}
+    "c:\\Users\\User\\Desktop\\FIN\\appPolnice\\appPolnice.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Desktop\\FIN\\appPolnice\\appPolnice.csproj": {
+    "c:\\Users\\User\\Desktop\\FIN\\appPolnice\\appPolnice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\FIN\\appPolnice\\appPolnice.csproj",
+        "projectUniqueName": "c:\\Users\\User\\Desktop\\FIN\\appPolnice\\appPolnice.csproj",
         "projectName": "appPolnice",
-        "projectPath": "C:\\Users\\User\\Desktop\\FIN\\appPolnice\\appPolnice.csproj",
+        "projectPath": "c:\\Users\\User\\Desktop\\FIN\\appPolnice\\appPolnice.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\FIN\\appPolnice\\obj\\",
+        "outputPath": "c:\\Users\\User\\Desktop\\FIN\\appPolnice\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
