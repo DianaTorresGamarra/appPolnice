@@ -550,7 +550,6 @@ C:\code\2022\appPolnice\obj\Debug\net6.0\refint\appPolnice.dll
 C:\code\2022\appPolnice\obj\Debug\net6.0\appPolnice.pdb
 C:\code\2022\appPolnice\obj\Debug\net6.0\appPolnice.genruntimeconfig.cache
 C:\code\2022\appPolnice\obj\Debug\net6.0\ref\appPolnice.dll
-<<<<<<< HEAD
 C:\Users\marca\OneDrive\Escritorio\app_progra\appPolnice\bin\Debug\net6.0\appsettings.Development.json
 C:\Users\marca\OneDrive\Escritorio\app_progra\appPolnice\bin\Debug\net6.0\appsettings.json
 C:\Users\marca\OneDrive\Escritorio\app_progra\appPolnice\bin\Debug\net6.0\appPolnice.staticwebassets.runtime.json
@@ -826,8 +825,6 @@ C:\Users\marca\OneDrive\Escritorio\app_progra\appPolnice\obj\Debug\net6.0\refint
 C:\Users\marca\OneDrive\Escritorio\app_progra\appPolnice\obj\Debug\net6.0\appPolnice.pdb
 C:\Users\marca\OneDrive\Escritorio\app_progra\appPolnice\obj\Debug\net6.0\appPolnice.genruntimeconfig.cache
 C:\Users\marca\OneDrive\Escritorio\app_progra\appPolnice\obj\Debug\net6.0\ref\appPolnice.dll
->>>>>>> e85f8f61e0e5385c904af48db97b70c77ad8cbc2
-=======
 >>>>>>> e85f8f61e0e5385c904af48db97b70c77ad8cbc2
 C:\Users\User\Desktop\FIN\appPolnice\bin\Debug\net6.0\appsettings.Development.json
 C:\Users\User\Desktop\FIN\appPolnice\bin\Debug\net6.0\appsettings.json
