@@ -275,11 +275,6 @@ C:\code\2022\appPolnice\obj\Debug\net6.0\appPolnice.genruntimeconfig.cache
 C:\code\2022\appPolnice\obj\Debug\net6.0\ref\appPolnice.dll
 <<<<<<< HEAD
 =======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
 >>>>>>> 597c87b33df5be7e07e74962451d4b818213bb68
 >>>>>>> a194d7c6cf977138af9cadc3f2d4fd68a343ffef
 C:\Users\marca\OneDrive\Escritorio\app_progra\appPolnice\bin\Debug\net6.0\appsettings.Development.json
