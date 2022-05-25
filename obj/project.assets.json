@@ -9926,41 +9926,24 @@
     ]
   },
   "packageFolders": {
-<<<<<<< HEAD
-    "C:\\Users\\diana\\.nuget\\packages\\": {}
-=======
-    "C:\\Users\\Inteligo\\.nuget\\packages\\": {}
->>>>>>> a194d7c6cf977138af9cadc3f2d4fd68a343ffef
+    "C:\\Users\\User\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-<<<<<<< HEAD
-      "projectUniqueName": "C:\\code\\2022\\appPolnice\\appPolnice.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\app_progra\\appPolnice\\appPolnice.csproj",
       "projectName": "appPolnice",
-      "projectPath": "C:\\code\\2022\\appPolnice\\appPolnice.csproj",
-      "packagesPath": "C:\\Users\\diana\\.nuget\\packages\\",
-      "outputPath": "C:\\code\\2022\\appPolnice\\obj\\",
+      "projectPath": "C:\\Users\\User\\Desktop\\app_progra\\appPolnice\\appPolnice.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\app_progra\\appPolnice\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\diana\\AppData\\Roaming\\NuGet\\NuGet.Config"
-=======
-      "projectUniqueName": "c:\\Users\\Inteligo\\Code\\netcore\\usmp\\20221\\appPolnice\\appPolnice.csproj",
-      "projectName": "appPolnice",
-      "projectPath": "c:\\Users\\Inteligo\\Code\\netcore\\usmp\\20221\\appPolnice\\appPolnice.csproj",
-      "packagesPath": "C:\\Users\\Inteligo\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Inteligo\\Code\\netcore\\usmp\\20221\\appPolnice\\obj\\",
-      "projectStyle": "PackageReference",
-      "configFilePaths": [
-        "C:\\Users\\Inteligo\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
->>>>>>> a194d7c6cf977138af9cadc3f2d4fd68a343ffef
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -10026,16 +10009,8 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problem reading the cache file c:\\Users\\Inteligo\\Code\\netcore\\usmp\\20221\\appPolnice\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  }
 }

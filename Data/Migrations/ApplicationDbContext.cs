@@ -29,6 +29,11 @@ public class ApplicationDbContext : IdentityDbContext
     public DbSet<appPolnice.Models.Producto> DataProductos { get; set; }
 
     public DbSet<appPolnice.Models.Proforma> DataProforma { get; set; }
+    public DbSet<appPolnice.Models.Pago> DataPago { get; set; }
+    public DbSet<appPolnice.Models.Pedido> DataPedido { get; set; }
+
+    public DbSet<appPolnice.Models.DetallePedido> DataDetallePedido { get; set; }
+
 
 
 
