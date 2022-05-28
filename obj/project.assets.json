@@ -9926,31 +9926,19 @@
     ]
   },
   "packageFolders": {
-<<<<<<< HEAD
     "C:\\Users\\User\\.nuget\\packages\\": {}
-=======
-    "C:\\Users\\diana\\.nuget\\packages\\": {}
->>>>>>> e50b02bb99772c5311fa1136190c21a2f6f9a30c
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\User\\Desktop\\app_progra\\appPolnice\\appPolnice.csproj",
-=======
-      "projectUniqueName": "C:\\code\\2022\\appPolnice\\appPolnice.csproj",
->>>>>>> e50b02bb99772c5311fa1136190c21a2f6f9a30c
       "projectName": "appPolnice",
       "projectPath": "C:\\Users\\User\\Desktop\\app_progra\\appPolnice\\appPolnice.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\User\\Desktop\\app_progra\\appPolnice\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-<<<<<<< HEAD
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
-=======
-        "C:\\Users\\diana\\AppData\\Roaming\\NuGet\\NuGet.Config"
->>>>>>> e50b02bb99772c5311fa1136190c21a2f6f9a30c
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -10021,11 +10009,7 @@
             "privateAssets": "all"
           }
         },
-<<<<<<< HEAD
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
-=======
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
->>>>>>> e50b02bb99772c5311fa1136190c21a2f6f9a30c
       }
     }
   }
