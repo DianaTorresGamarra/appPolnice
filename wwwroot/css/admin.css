@@ -276,7 +276,7 @@ tr td:last-child {
 }
 
 .status.red {
-    background:;
+    background:red;
 }
 
 .table-responsive {
