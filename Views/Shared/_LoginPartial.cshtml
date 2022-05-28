@@ -11,11 +11,11 @@
     IdentityUser myidentity = await Task.Run(() => UserManager.GetUserAsync(User));
     var roles = await Task.Run(() => UserManager.GetRolesAsync(myidentity));
 
-    @if(roles.Contains("A")){
+    @if(roles.Contains("Admin")){
 
         <li class="nav-item">
 
-            <a class="nav-link color" asp-area="" asp-controller="A" asp-action="Producto"> Producto</a>
+            <a class="nav-link color" asp-area="" asp-controller="Admin" asp-action="Producto"> Producto</a>
         </li>
 
 

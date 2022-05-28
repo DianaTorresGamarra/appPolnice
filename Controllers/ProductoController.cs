@@ -13,7 +13,7 @@ using Microsoft.AspNetCore.Authorization;
 namespace appPolnice.Controllers
 {
 
-    [Authorize(Roles = "A")]
+    [Authorize(Roles = "Admin")]
     public class ProductoController : Controller
     {
        
