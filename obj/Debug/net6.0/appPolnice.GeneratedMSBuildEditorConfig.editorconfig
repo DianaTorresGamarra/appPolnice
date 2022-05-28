@@ -8,224 +8,121 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = appPolnice
 build_property.RootNamespace = appPolnice
-<<<<<<< HEAD
-build_property.ProjectDir = c:\Users\User\Desktop\app_progra\appPolnice\
+build_property.ProjectDir = C:\Users\User\Desktop\PRUEBA PROGRA\appPolnice\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = c:\Users\User\Desktop\app_progra\appPolnice
+build_property.MSBuildProjectDirectory = C:\Users\User\Desktop\PRUEBA PROGRA\appPolnice
 build_property._RazorSourceGeneratorDebug = 
 
-[c:/Users/User/Desktop/app_progra/appPolnice/Areas/Identity/Pages/Account/Login.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbi5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[c:/Users/User/Desktop/app_progra/appPolnice/Areas/Identity/Pages/Account/Manage/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcSW5kZXguY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[c:/Users/User/Desktop/app_progra/appPolnice/Areas/Identity/Pages/Account/Manage/_ManageNav.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX01hbmFnZU5hdi5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[c:/Users/User/Desktop/app_progra/appPolnice/Areas/Identity/Pages/Account/Manage/_ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[c:/Users/User/Desktop/app_progra/appPolnice/Areas/Identity/Pages/Account/Register.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[c:/Users/User/Desktop/app_progra/appPolnice/Areas/Identity/Pages/Account/RegisterConfirmation.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3RlckNvbmZpcm1hdGlvbi5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[c:/Users/User/Desktop/app_progra/appPolnice/Areas/Identity/Pages/Account/_ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxfVmlld0ltcG9ydHMuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[c:/Users/User/Desktop/app_progra/appPolnice/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[c:/Users/User/Desktop/app_progra/appPolnice/Areas/Identity/Pages/_ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[c:/Users/User/Desktop/app_progra/appPolnice/Areas/Identity/Pages/_ViewStart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[c:/Users/User/Desktop/app_progra/appPolnice/Views/Catalogo/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0YWxvZ29cRGV0YWlscy5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[c:/Users/User/Desktop/app_progra/appPolnice/Views/Catalogo/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0YWxvZ29cSW5kZXguY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[c:/Users/User/Desktop/app_progra/appPolnice/Views/Contacto/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdG9cSW5kZXguY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[c:/Users/User/Desktop/app_progra/appPolnice/Views/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[c:/Users/User/Desktop/app_progra/appPolnice/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[c:/Users/User/Desktop/app_progra/appPolnice/Views/Nosotros/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTm9zb3Ryb3NcSW5kZXguY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[c:/Users/User/Desktop/app_progra/appPolnice/Views/Pago/Confirmacion.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnb1xDb25maXJtYWNpb24uY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[c:/Users/User/Desktop/app_progra/appPolnice/Views/Pago/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnb1xJbmRleC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[c:/Users/User/Desktop/app_progra/appPolnice/Views/Proforma/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZm9ybWFcRWRpdC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[c:/Users/User/Desktop/app_progra/appPolnice/Views/Proforma/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZm9ybWFcSW5kZXguY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[c:/Users/User/Desktop/app_progra/appPolnice/Views/Shared/Error.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[c:/Users/User/Desktop/app_progra/appPolnice/Views/Shared/_LoginPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[c:/Users/User/Desktop/app_progra/appPolnice/Views/Shared/_MenuPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9NZW51UGFydGlhbC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[c:/Users/User/Desktop/app_progra/appPolnice/Views/Shared/_ValidationScriptsPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[c:/Users/User/Desktop/app_progra/appPolnice/Views/_ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[c:/Users/User/Desktop/app_progra/appPolnice/Views/_ViewStart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[c:/Users/User/Desktop/app_progra/appPolnice/Views/Shared/_Layout.cshtml]
-=======
-build_property.ProjectDir = c:\code\2022\appPolnice\
-build_property.RazorLangVersion = 6.0
-build_property.SupportLocalizedComponentNames = 
-build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = c:\code\2022\appPolnice
-build_property._RazorSourceGeneratorDebug = 
-
-[c:/code/2022/appPolnice/Areas/Identity/Pages/Account/ConfirmEmail.cshtml]
+[C:/Users/User/Desktop/PRUEBA PROGRA/appPolnice/Areas/Identity/Pages/Account/ConfirmEmail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxDb25maXJtRW1haWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/code/2022/appPolnice/Areas/Identity/Pages/Account/Login.cshtml]
+[C:/Users/User/Desktop/PRUEBA PROGRA/appPolnice/Areas/Identity/Pages/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/code/2022/appPolnice/Areas/Identity/Pages/Account/Manage/Index.cshtml]
+[C:/Users/User/Desktop/PRUEBA PROGRA/appPolnice/Areas/Identity/Pages/Account/Manage/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/code/2022/appPolnice/Areas/Identity/Pages/Account/Manage/_ManageNav.cshtml]
+[C:/Users/User/Desktop/PRUEBA PROGRA/appPolnice/Areas/Identity/Pages/Account/Manage/_ManageNav.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX01hbmFnZU5hdi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/code/2022/appPolnice/Areas/Identity/Pages/Account/Manage/_ViewImports.cshtml]
+[C:/Users/User/Desktop/PRUEBA PROGRA/appPolnice/Areas/Identity/Pages/Account/Manage/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/code/2022/appPolnice/Areas/Identity/Pages/Account/Register.cshtml]
+[C:/Users/User/Desktop/PRUEBA PROGRA/appPolnice/Areas/Identity/Pages/Account/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/code/2022/appPolnice/Areas/Identity/Pages/Account/RegisterConfirmation.cshtml]
+[C:/Users/User/Desktop/PRUEBA PROGRA/appPolnice/Areas/Identity/Pages/Account/RegisterConfirmation.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3RlckNvbmZpcm1hdGlvbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/code/2022/appPolnice/Areas/Identity/Pages/Account/_ViewImports.cshtml]
+[C:/Users/User/Desktop/PRUEBA PROGRA/appPolnice/Areas/Identity/Pages/Account/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxfVmlld0ltcG9ydHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/code/2022/appPolnice/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
+[C:/Users/User/Desktop/PRUEBA PROGRA/appPolnice/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/code/2022/appPolnice/Areas/Identity/Pages/_ViewImports.cshtml]
+[C:/Users/User/Desktop/PRUEBA PROGRA/appPolnice/Areas/Identity/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/code/2022/appPolnice/Areas/Identity/Pages/_ViewStart.cshtml]
+[C:/Users/User/Desktop/PRUEBA PROGRA/appPolnice/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/code/2022/appPolnice/Views/Catalogo/Details.cshtml]
+[C:/Users/User/Desktop/PRUEBA PROGRA/appPolnice/Views/Catalogo/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0YWxvZ29cRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/code/2022/appPolnice/Views/Catalogo/Index.cshtml]
+[C:/Users/User/Desktop/PRUEBA PROGRA/appPolnice/Views/Catalogo/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0YWxvZ29cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/code/2022/appPolnice/Views/Contacto/Index.cshtml]
+[C:/Users/User/Desktop/PRUEBA PROGRA/appPolnice/Views/Contacto/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdG9cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/code/2022/appPolnice/Views/Home/Index.cshtml]
+[C:/Users/User/Desktop/PRUEBA PROGRA/appPolnice/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/code/2022/appPolnice/Views/Home/Privacy.cshtml]
+[C:/Users/User/Desktop/PRUEBA PROGRA/appPolnice/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/code/2022/appPolnice/Views/Nosotros/Index.cshtml]
+[C:/Users/User/Desktop/PRUEBA PROGRA/appPolnice/Views/Nosotros/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTm9zb3Ryb3NcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/code/2022/appPolnice/Views/Proforma/Index.cshtml]
+[C:/Users/User/Desktop/PRUEBA PROGRA/appPolnice/Views/Pago/Confirmacion.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnb1xDb25maXJtYWNpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/PRUEBA PROGRA/appPolnice/Views/Pago/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnb1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/PRUEBA PROGRA/appPolnice/Views/Proforma/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZm9ybWFcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/PRUEBA PROGRA/appPolnice/Views/Proforma/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZm9ybWFcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/code/2022/appPolnice/Views/Shared/Error.cshtml]
+[C:/Users/User/Desktop/PRUEBA PROGRA/appPolnice/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/code/2022/appPolnice/Views/Shared/_LoginPartial.cshtml]
+[C:/Users/User/Desktop/PRUEBA PROGRA/appPolnice/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/code/2022/appPolnice/Views/Shared/_MenuPartial.cshtml]
+[C:/Users/User/Desktop/PRUEBA PROGRA/appPolnice/Views/Shared/_MenuPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9NZW51UGFydGlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/code/2022/appPolnice/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/User/Desktop/PRUEBA PROGRA/appPolnice/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/code/2022/appPolnice/Views/_ViewImports.cshtml]
+[C:/Users/User/Desktop/PRUEBA PROGRA/appPolnice/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/code/2022/appPolnice/Views/_ViewStart.cshtml]
+[C:/Users/User/Desktop/PRUEBA PROGRA/appPolnice/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/code/2022/appPolnice/Views/Shared/_Layout.cshtml]
->>>>>>> e50b02bb99772c5311fa1136190c21a2f6f9a30c
+[C:/Users/User/Desktop/PRUEBA PROGRA/appPolnice/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-u2s47zyrl0
