@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap');
 :root {
-    --main-color: LightSlateGrey;
+    --main-color: #e5e5f7;
     --color-dark: #1D2231;
     --text-grey: #8390A2;
 }
@@ -49,7 +49,7 @@
 .sidebar-menu a {
     padding-left: 1rem;
     display: block;
-    color: #fff;
+    color: black;
     font-size: 1.1rem;
 }
 
