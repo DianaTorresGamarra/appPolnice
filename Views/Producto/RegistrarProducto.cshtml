@@ -4,38 +4,52 @@
     ViewData["Title"] = "REGISTRAR PRODUCTO";
 }
 <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+<link rel="stylesheet" href="~/css/banner.css">
+       <a class="nav-link" asp-controller="Admin" asp-action="Producto"><button type="submit" class="btn btn-primary" body style="background-color:;">Volver al Tablero</button></a>
 
-  
+<main>
 
-    <section id="hero3" class="d-flex align-items-center justify-content-center" style="height: 18px;">
-<h1>¡REGISTRA UN PRODUCTO!</h1>
-
+    <section id="banner">
+        <img src="/images/computer.jpg">
+        <div class="contenedor">   
+        <h1>¡REGISTRA UN PRODUCTO!</h1>
+        <br>
+        <p>A través de esta interfaz, tendrás acceso para registrar nuevos productos a tu cátalogo de prendas Polnice.
+            Manualmente debes de ingresar el nombre de la prenda, una breve descripción de la prenda, su precio y la url de la imagen.
+        </p>
+       
+        </div>
     </section>
+</main>
+
+
+
 
 
 <hr />
+
 <div class="row">
     <center><div class="col-md-4">
-        <form asp-action="RegistrarProducto">
+        <form class="formulario" asp-action="RegistrarProducto">
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
             <div class="form-group">
-                <label asp-for="Name" class="control-label">NOMBRE</label>
-                <input asp-for="Name" class="form-control" />
+                <label asp-for="Name" class="formulario__label">NOMBRE</label>
+                <input asp-for="Name" class="formulario__input"  />
                 <span asp-validation-for="Name" class="text-danger"></span>
             </div>
             <div class="form-group">
-                <label asp-for="Descripcion" class="control-label">DESCRIPCIÓN</label>
-                <input asp-for="Descripcion" class="form-control" />
+                <label asp-for="Descripcion" class="formulario__label">DESCRIPCIÓN</label>
+                <input asp-for="Descripcion" class="formulario__input" />
                 <span asp-validation-for="Descripcion" class="text-danger"></span>
             </div>
             <div class="form-group">
-                <label asp-for="Precio" class="control-label">PRECIO</label>
-                <input asp-for="Precio" class="form-control" />
+                <label asp-for="Precio" class="formulario__label">PRECIO</label>
+                <input asp-for="Precio" class="formulario__input" />
                 <span asp-validation-for="Precio" class="text-danger"></span>
             </div>
             <div class="form-group">
-                <label asp-for="ImageName" class="control-label">URL DE LA IMAGEN</label>
-                <input asp-for="ImageName" class="form-control" />
+                <label asp-for="ImageName" class="formulario__label">URL DE LA IMAGEN</label>
+                <input asp-for="ImageName" class="formulario__input" />
                 <span asp-validation-for="ImageName" class="text-danger"></span>
             </div>
                 <div style="width: 250px">
@@ -50,10 +64,8 @@
 <div>
     <a asp-action="ListarProducto" class="btn btn-info" style="font-size: 15px;">LISTA DE PRODUCTOS</a>
 
-    <br>
-    <a class="nav-link" asp-controller="Admin" asp-action="Producto"><button type="submit" class="btn btn-primary" body style="background-color:;">Volver al Tablero</button></a>
-
 </div>
+<br>
 
 @section Scripts {
     @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
