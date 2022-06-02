@@ -1,3 +1,4 @@
+#nullable disable
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -7,30 +8,26 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using appPolnice.Data;
 using appPolnice.Models;
-using Microsoft.AspNetCore.Authorization;
-
 
 namespace appPolnice.Controllers
 {
-
-    [Authorize(Roles = "Admin")]
     public class ProductoController : Controller
     {
-       
         private readonly ApplicationDbContext _context;
 
         public ProductoController(ApplicationDbContext context)
-        {  
+        {
             _context = context;
-            
         }
 
-        public async Task<IActionResult> ListarProducto()
+        // GET: Producto
+        public async Task<IActionResult> Index()
         {
             return View(await _context.DataProductos.ToListAsync());
         }
 
-        public async Task<IActionResult> DetalleProducto(int? id)
+        // GET: Producto/Details/5
+        public async Task<IActionResult> Details(int? id)
         {
             if (id == null)
             {
@@ -47,29 +44,30 @@ namespace appPolnice.Controllers
             return View(producto);
         }
 
-        public IActionResult RegistrarProducto()
+        // GET: Producto/Create
+        public IActionResult Create()
         {
             return View();
         }
 
+        // POST: Producto/Create
+        // To protect from overposting attacks, enable the specific properties you want to bind to.
+        // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> RegistrarProducto([Bind("Id,Nombre,Descripcion,Precio,Imagen")] Producto producto)
+        public async Task<IActionResult> Create([Bind("Id,Name,Descripcion,Precio,ImageName,Status")] Producto producto)
         {
             if (ModelState.IsValid)
             {
                 _context.Add(producto);
                 await _context.SaveChangesAsync();
-                return RedirectToAction(nameof(ListarProducto));
+                return RedirectToAction(nameof(Index));
             }
             return View(producto);
         }
 
-        public IActionResult ElegirAccion(){
-            return View();
-        }
-
-        public async Task<IActionResult> EditarProducto(int? id)
+        // GET: Producto/Edit/5
+        public async Task<IActionResult> Edit(int? id)
         {
             if (id == null)
             {
@@ -84,9 +82,12 @@ namespace appPolnice.Controllers
             return View(producto);
         }
 
+        // POST: Producto/Edit/5
+        // To protect from overposting attacks, enable the specific properties you want to bind to.
+        // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> EditarProducto(int id, [Bind("Id,Nombre,Descripcion,Precio,Imagen")] Producto producto)
+        public async Task<IActionResult> Edit(int id, [Bind("Id,Name,Descripcion,Precio,ImageName,Status")] Producto producto)
         {
             if (id != producto.Id)
             {
@@ -102,7 +103,7 @@ namespace appPolnice.Controllers
                 }
                 catch (DbUpdateConcurrencyException)
                 {
-                    if (!ProductExists(producto.Id))
+                    if (!ProductoExists(producto.Id))
                     {
                         return NotFound();
                     }
@@ -111,38 +112,43 @@ namespace appPolnice.Controllers
                         throw;
                     }
                 }
-                return RedirectToAction(nameof(ListarProducto));
+                return RedirectToAction(nameof(Index));
             }
             return View(producto);
         }
 
-        public async Task<IActionResult> Eliminar(int id)
+        // GET: Producto/Delete/5
+        public async Task<IActionResult> Delete(int? id)
         {
-            
-            var detalles = _context.DataDetallePedido.Where(d => d.Producto.Id == id);
-            
-            foreach(var item in detalles){
-                item.Producto = null;
+            if (id == null)
+            {
+                return NotFound();
             }
 
-            var proformas = _context.DataProforma.Where(p => p.Producto.Id == id);
-
-            foreach(var item in proformas){
-                _context.DataProforma.Remove(item);
+            var producto = await _context.DataProductos
+                .FirstOrDefaultAsync(m => m.Id == id);
+            if (producto == null)
+            {
+                return NotFound();
             }
 
-            var product = await _context.DataProductos.FindAsync(id);
-            _context.DataProductos.Remove(product);
-            await _context.SaveChangesAsync();
-            return RedirectToAction(nameof(ListarProducto));
+            return View(producto);
         }
 
-        private bool ProductExists(int id)
+        // POST: Producto/Delete/5
+        [HttpPost, ActionName("Delete")]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> DeleteConfirmed(int id)
+        {
+            var producto = await _context.DataProductos.FindAsync(id);
+            _context.DataProductos.Remove(producto);
+            await _context.SaveChangesAsync();
+            return RedirectToAction(nameof(Index));
+        }
+
+        private bool ProductoExists(int id)
         {
             return _context.DataProductos.Any(e => e.Id == id);
         }
-
-     
-
     }
 }
