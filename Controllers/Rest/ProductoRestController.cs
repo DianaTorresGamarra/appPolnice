@@ -25,5 +25,6 @@ namespace appPolnice.Controllers.Rest
              var listProductos=_context.DataProductos.OrderBy(s => s.Id).ToList();   
              return listProductos.ToArray();
         }
+        
     }
 }
