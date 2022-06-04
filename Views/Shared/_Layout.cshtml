@@ -3,10 +3,10 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>@ViewData["Title"] - appPolnice</title>
+    <title>@ViewData["Title"] - Polnice</title>
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
-    <link rel="stylesheet" href="~/appPolnice.styles.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/Inkasign.styles.css" asp-append-version="true" />
 </head>
 <body>
     <header>
@@ -14,7 +14,7 @@
             <div class="container d-flex align-items-center justify-content-between">
                                 
                 <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index"><img src="/images/logo.jpg" alt="" height="70"></a>
-                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">Polnice</a>
+                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">Polnice Outlet</a>
                
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
                         aria-expanded="false" aria-label="Toggle navigation">
@@ -29,23 +29,22 @@
                         <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Inicio</a>
                         </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacidad</a>
-                        </li>
-
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Contacto" asp-action="Index">Contáctanos</a>
-                        </li>
-
+                        
                         <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-controller="Nosotros" asp-action="Index">Nosotros</a>
                         </li>
 
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Catalogo" asp-action="Index">Catálogo</a>
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Contacto" asp-action="Contacto">Contáctanos</a>
                         </li>
+
                         
-                        <partial name="_MenuPartial" />                      
+
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Catalogo" asp-action="Index">Cátalogo</a>
+                        </li>
+
+                      <partial name="_MenuPartial" />
 
                     </ul>
                     <partial name="_LoginPartial" />
@@ -61,13 +60,15 @@
     </div>
 
 
-
-    <footer class="border-top footer text-muted">
+<footer class="border-top footer text-muted">
         <div class="container">
-            &copy; 2022 - appPolnice - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacidad</a>
-           
+            2022 - Polnice - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacidad</a>
+            <a href="https://www.facebook.com/Polnice-538571699900356"><img align="right" VSPACE="20"  src="/images/facebook.png" alt="" width="35px" heigh="35px"></a>
+            <a href="https://www.instagram.com/polnice16/"><img align="right" VSPACE="20" HSPACE="20" src="/images/instagram.png" alt="" width="35px" heigh="35px"></a>
+            <a href="https://wa.link/oim9s5"><img align="right" VSPACE="20" src="/images/whatsapp.png" alt="" width="35px" heigh="35px"></a>
+            
         </div>
-    </footer>
+</footer>
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>
