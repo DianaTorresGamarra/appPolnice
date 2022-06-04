@@ -24,7 +24,7 @@
               <div class="card mb-3">
                 <div class="card-body">
                   <div class="card-img-actions">
-                    <img class="img-responsive" width="300" height="360"
+                    <center><img class="img-responsive" width="150" height="200"
                        src="/images/@item.ImageName" alt="@item.ImageName"  />
                   </div>
                 </div>
@@ -33,9 +33,9 @@
                   <p class="card-text">@Html.DisplayFor(modelItem => item.Precio)</p>
 
 
-                  <a class="btn btn-primary" asp-action="Add" asp-route-id="@item.Id">Agregar</a>
+                  <center><a class="btn btn-primary" asp-action="Add" asp-route-id="@item.Id">Agregar</a>
 
-                  <a class="btn btn-info" asp-action="Details" asp-route-id="@item.Id">Visualizar</a>
+                  <a class="btn btn-info" asp-action="Details" asp-route-id="@item.Id">Detalles</a></center>
                 </div>
               </div>
             </div>

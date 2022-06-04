@@ -548,3 +548,6 @@ C:\Users\ALEXANDRA\OneDrive\Escritorio\polnice\appPolnice\obj\Debug\net6.0\refin
 C:\Users\ALEXANDRA\OneDrive\Escritorio\polnice\appPolnice\obj\Debug\net6.0\appPolnice.pdb
 C:\Users\ALEXANDRA\OneDrive\Escritorio\polnice\appPolnice\obj\Debug\net6.0\appPolnice.genruntimeconfig.cache
 C:\Users\ALEXANDRA\OneDrive\Escritorio\polnice\appPolnice\obj\Debug\net6.0\ref\appPolnice.dll
+C:\code\2022\appPolnice\obj\Debug\net6.0\appPolnice.dll
+C:\code\2022\appPolnice\obj\Debug\net6.0\refint\appPolnice.dll
+C:\code\2022\appPolnice\obj\Debug\net6.0\appPolnice.pdb
