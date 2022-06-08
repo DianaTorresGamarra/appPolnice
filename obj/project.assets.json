@@ -9988,27 +9988,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ALEXANDRA\\.nuget\\packages\\": {}
+    "C:\\Users\\User\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-<<<<<<< HEAD
-      "projectUniqueName": "c:\\Users\\ALEXANDRA\\OneDrive\\Escritorio\\polnice\\appPolnice\\appPolnice.csproj",
+      "projectUniqueName": "c:\\Users\\User\\Desktop\\PRUEBA PROGRA\\appPolnice\\appPolnice.csproj",
       "projectName": "appPolnice",
-      "projectPath": "c:\\Users\\ALEXANDRA\\OneDrive\\Escritorio\\polnice\\appPolnice\\appPolnice.csproj",
-      "packagesPath": "C:\\Users\\ALEXANDRA\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\ALEXANDRA\\OneDrive\\Escritorio\\polnice\\appPolnice\\obj\\",
-=======
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\PRUEBA PROGRA\\appPolnice\\appPolnice.csproj",
-      "projectName": "appPolnice",
-      "projectPath": "C:\\Users\\User\\Desktop\\PRUEBA PROGRA\\appPolnice\\appPolnice.csproj",
+      "projectPath": "c:\\Users\\User\\Desktop\\PRUEBA PROGRA\\appPolnice\\appPolnice.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\PRUEBA PROGRA\\appPolnice\\obj\\",
->>>>>>> 29d35cbdd4ef75252e19d84dec0d73d12aee9329
+      "outputPath": "c:\\Users\\User\\Desktop\\PRUEBA PROGRA\\appPolnice\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ALEXANDRA\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"

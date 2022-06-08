@@ -3,7 +3,7 @@ Accept: application/json
 
 
 POST https://api.sendgrid.com/v3/mail/send HTTP/1.1
-Authorization: Bearer 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
+Authorization: Bearer << >>
 Content-Type: application/json
 
 {
@@ -11,14 +11,14 @@ Content-Type: application/json
     "demo"
   ],
   "from": {
-    "email": "diana_torres6@usmp.pe", //correo origen  settings\sender authentification
+    "email": "diana_torres6@usmp.pe", 
     "name": "Mail Service"
   },
   "personalizations": [
     {
       "to": [
         {
-          "email": "diana.etg96@gmail.com", //correo destino variable
+          "email": "diana.etg96@gmail.com", 
           "name": "Diana Torres"
         }
       ],
