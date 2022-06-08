@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\User\\Desktop\\PRUEBA PROGRA\\appPolnice\\appPolnice.csproj": {}
+    "C:\\Users\\User\\Desktop\\PRUEBA PROGRA\\appPolnice\\appPolnice.csproj": {}
   },
   "projects": {
-    "c:\\Users\\User\\Desktop\\PRUEBA PROGRA\\appPolnice\\appPolnice.csproj": {
+    "C:\\Users\\User\\Desktop\\PRUEBA PROGRA\\appPolnice\\appPolnice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\User\\Desktop\\PRUEBA PROGRA\\appPolnice\\appPolnice.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\PRUEBA PROGRA\\appPolnice\\appPolnice.csproj",
         "projectName": "appPolnice",
-        "projectPath": "c:\\Users\\User\\Desktop\\PRUEBA PROGRA\\appPolnice\\appPolnice.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\PRUEBA PROGRA\\appPolnice\\appPolnice.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\User\\Desktop\\PRUEBA PROGRA\\appPolnice\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\PRUEBA PROGRA\\appPolnice\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
