@@ -9988,31 +9988,11 @@
     ]
   },
   "packageFolders": {
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
     "C:\\Users\\diana\\.nuget\\packages\\": {}
-=======
-    "C:\\Users\\User\\.nuget\\packages\\": {}
->>>>>>> 1036775bde1bb69b2db70af91ae17ecd63ed78e1
-=======
-    "C:\\Users\\User\\.nuget\\packages\\": {}
->>>>>>> 1036775bde1bb69b2db70af91ae17ecd63ed78e1
-=======
-    "C:\\Users\\User\\.nuget\\packages\\": {}
->>>>>>> 1036775bde1bb69b2db70af91ae17ecd63ed78e1
-=======
-    "C:\\Users\\User\\.nuget\\packages\\": {}
->>>>>>> 1036775bde1bb69b2db70af91ae17ecd63ed78e1
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
       "projectUniqueName": "C:\\code\\2022\\appPolnice\\appPolnice.csproj",
       "projectName": "appPolnice",
       "projectPath": "C:\\code\\2022\\appPolnice\\appPolnice.csproj",
@@ -10021,46 +10001,6 @@
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\diana\\AppData\\Roaming\\NuGet\\NuGet.Config"
-=======
-      "projectUniqueName": "c:\\Users\\User\\Desktop\\PRUEBA PROGRA\\appPolnice\\appPolnice.csproj",
-      "projectName": "appPolnice",
-      "projectPath": "c:\\Users\\User\\Desktop\\PRUEBA PROGRA\\appPolnice\\appPolnice.csproj",
-      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\User\\Desktop\\PRUEBA PROGRA\\appPolnice\\obj\\",
-      "projectStyle": "PackageReference",
-      "configFilePaths": [
-        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
->>>>>>> 1036775bde1bb69b2db70af91ae17ecd63ed78e1
-=======
-      "projectUniqueName": "c:\\Users\\User\\Desktop\\PRUEBA PROGRA\\appPolnice\\appPolnice.csproj",
-      "projectName": "appPolnice",
-      "projectPath": "c:\\Users\\User\\Desktop\\PRUEBA PROGRA\\appPolnice\\appPolnice.csproj",
-      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\User\\Desktop\\PRUEBA PROGRA\\appPolnice\\obj\\",
-      "projectStyle": "PackageReference",
-      "configFilePaths": [
-        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
->>>>>>> 1036775bde1bb69b2db70af91ae17ecd63ed78e1
-=======
-      "projectUniqueName": "c:\\Users\\User\\Desktop\\PRUEBA PROGRA\\appPolnice\\appPolnice.csproj",
-      "projectName": "appPolnice",
-      "projectPath": "c:\\Users\\User\\Desktop\\PRUEBA PROGRA\\appPolnice\\appPolnice.csproj",
-      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\User\\Desktop\\PRUEBA PROGRA\\appPolnice\\obj\\",
-      "projectStyle": "PackageReference",
-      "configFilePaths": [
-        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
->>>>>>> 1036775bde1bb69b2db70af91ae17ecd63ed78e1
-=======
-      "projectUniqueName": "c:\\Users\\User\\Desktop\\PRUEBA PROGRA\\appPolnice\\appPolnice.csproj",
-      "projectName": "appPolnice",
-      "projectPath": "c:\\Users\\User\\Desktop\\PRUEBA PROGRA\\appPolnice\\appPolnice.csproj",
-      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\User\\Desktop\\PRUEBA PROGRA\\appPolnice\\obj\\",
-      "projectStyle": "PackageReference",
-      "configFilePaths": [
-        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
->>>>>>> 1036775bde1bb69b2db70af91ae17ecd63ed78e1
       ],
       "originalTargetFrameworks": [
         "net6.0"

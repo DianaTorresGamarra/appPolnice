@@ -20,13 +20,11 @@ namespace appPolnice.Controllers
             _context = context;
         }
 
-        // GET: Producto
         public async Task<IActionResult> Index()
         {
             return View(await _context.DataProductos.ToListAsync());
         }
 
-        // GET: Producto/Details/5
         public async Task<IActionResult> Details(int? id)
         {
             if (id == null)
@@ -44,15 +42,11 @@ namespace appPolnice.Controllers
             return View(producto);
         }
 
-        // GET: Producto/Create
         public IActionResult Create()
         {
             return View();
         }
 
-        // POST: Producto/Create
-        // To protect from overposting attacks, enable the specific properties you want to bind to.
-        // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Create([Bind("Id,Name,Descripcion,Precio,ImageName,Status")] Producto producto)
@@ -66,7 +60,6 @@ namespace appPolnice.Controllers
             return View(producto);
         }
 
-        // GET: Producto/Edit/5
         public async Task<IActionResult> Edit(int? id)
         {
             if (id == null)
@@ -82,9 +75,7 @@ namespace appPolnice.Controllers
             return View(producto);
         }
 
-        // POST: Producto/Edit/5
-        // To protect from overposting attacks, enable the specific properties you want to bind to.
-        // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
+   
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Edit(int id, [Bind("Id,Name,Descripcion,Precio,ImageName,Status")] Producto producto)
@@ -117,7 +108,7 @@ namespace appPolnice.Controllers
             return View(producto);
         }
 
-        // GET: Producto/Delete/5
+       
         public async Task<IActionResult> Delete(int? id)
         {
             if (id == null)
@@ -135,7 +126,7 @@ namespace appPolnice.Controllers
             return View(producto);
         }
 
-        // POST: Producto/Delete/5
+     
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> DeleteConfirmed(int id)
