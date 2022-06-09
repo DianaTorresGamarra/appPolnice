@@ -27,9 +27,9 @@ namespace appPolnice.Models
         [NotMapped]
         public String Cvv { get; set; }
         
-        public Decimal MontoTotal{ get; set; }
+        public Decimal MontoTotal { get; set; }
 
-        public String UserID{ get; set; }
+        public String UserID { get; set; }
 
     
     }
