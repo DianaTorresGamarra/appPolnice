@@ -16,7 +16,7 @@ namespace appPolnice.Models
 
         public Producto Producto {get; set;}
 
-        public int Cantidad{get; set;}
+        public int Cantidad {get; set;}
         public Decimal Precio { get; set; }
         public Pedido Pedido {get; set;}
 
