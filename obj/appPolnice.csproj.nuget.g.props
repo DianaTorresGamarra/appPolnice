@@ -8,7 +8,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\diana\.nuget\packages\</NuGetPackageFolders>
+=======
+    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\User\.nuget\packages\</NuGetPackageFolders>
+>>>>>>> 1036775bde1bb69b2db70af91ae17ecd63ed78e1
 =======
     <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\User\.nuget\packages\</NuGetPackageFolders>
 >>>>>>> 1036775bde1bb69b2db70af91ae17ecd63ed78e1
@@ -25,7 +29,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     <SourceRoot Include="C:\Users\diana\.nuget\packages\" />
+=======
+    <SourceRoot Include="C:\Users\User\.nuget\packages\" />
+>>>>>>> 1036775bde1bb69b2db70af91ae17ecd63ed78e1
 =======
     <SourceRoot Include="C:\Users\User\.nuget\packages\" />
 >>>>>>> 1036775bde1bb69b2db70af91ae17ecd63ed78e1
@@ -44,11 +52,14 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     <PkgMessagePackAnalyzer Condition=" '$(PkgMessagePackAnalyzer)' == '' ">C:\Users\diana\.nuget\packages\messagepackanalyzer\2.1.152</PkgMessagePackAnalyzer>
     <PkgMicrosoft_CodeAnalysis_Analyzers Condition=" '$(PkgMicrosoft_CodeAnalysis_Analyzers)' == '' ">C:\Users\diana\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2</PkgMicrosoft_CodeAnalysis_Analyzers>
     <PkgMicrosoft_CodeAnalysis_AnalyzerUtilities Condition=" '$(PkgMicrosoft_CodeAnalysis_AnalyzerUtilities)' == '' ">C:\Users\diana\.nuget\packages\microsoft.codeanalysis.analyzerutilities\3.3.0</PkgMicrosoft_CodeAnalysis_AnalyzerUtilities>
     <PkgMicrosoft_EntityFrameworkCore_Tools Condition=" '$(PkgMicrosoft_EntityFrameworkCore_Tools)' == '' ">C:\Users\diana\.nuget\packages\microsoft.entityframeworkcore.tools\6.0.3</PkgMicrosoft_EntityFrameworkCore_Tools>
 =======
+=======
+>>>>>>> 1036775bde1bb69b2db70af91ae17ecd63ed78e1
 =======
 >>>>>>> 1036775bde1bb69b2db70af91ae17ecd63ed78e1
 =======
@@ -59,6 +70,9 @@
     <PkgMicrosoft_EntityFrameworkCore_Tools Condition=" '$(PkgMicrosoft_EntityFrameworkCore_Tools)' == '' ">C:\Users\User\.nuget\packages\microsoft.entityframeworkcore.tools\6.0.3</PkgMicrosoft_EntityFrameworkCore_Tools>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> 1036775bde1bb69b2db70af91ae17ecd63ed78e1
+=======
 >>>>>>> 1036775bde1bb69b2db70af91ae17ecd63ed78e1
 =======
 >>>>>>> 1036775bde1bb69b2db70af91ae17ecd63ed78e1

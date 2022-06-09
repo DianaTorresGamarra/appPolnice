@@ -555,6 +555,7 @@ C:\code\2022\appPolnice\obj\Debug\net6.0\appPolnice.pdb
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 C:\code\2022\appPolnice\bin\Debug\net6.0\appsettings.Development.json
 C:\code\2022\appPolnice\bin\Debug\net6.0\appsettings.json
 C:\code\2022\appPolnice\bin\Debug\net6.0\app.db
@@ -828,6 +829,8 @@ C:\code\2022\appPolnice\obj\Debug\net6.0\appPolnice.csproj.CopyComplete
 C:\code\2022\appPolnice\obj\Debug\net6.0\appPolnice.genruntimeconfig.cache
 C:\code\2022\appPolnice\obj\Debug\net6.0\ref\appPolnice.dll
 =======
+=======
+>>>>>>> 1036775bde1bb69b2db70af91ae17ecd63ed78e1
 =======
 >>>>>>> 1036775bde1bb69b2db70af91ae17ecd63ed78e1
 =======
@@ -1113,6 +1116,9 @@ C:\Users\User\Desktop\PRUEBA PROGRA\appPolnice\obj\Debug\net6.0\appPolnice.genru
 C:\Users\User\Desktop\PRUEBA PROGRA\appPolnice\obj\Debug\net6.0\ref\appPolnice.dll
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> 1036775bde1bb69b2db70af91ae17ecd63ed78e1
+=======
 >>>>>>> 1036775bde1bb69b2db70af91ae17ecd63ed78e1
 =======
 >>>>>>> 1036775bde1bb69b2db70af91ae17ecd63ed78e1
