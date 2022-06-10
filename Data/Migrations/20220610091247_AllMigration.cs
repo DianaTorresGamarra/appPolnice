@@ -85,7 +85,7 @@ namespace appPolnice.Data.Migrations
                 name: "t_producto",
                 columns: table => new
                 {
-                    Id = table.Column<int>(type: "integer", nullable: false)
+                    id = table.Column<int>(type: "integer", nullable: false)
                         .Annotation("Npgsql:ValueGenerationStrategy", NpgsqlValueGenerationStrategy.IdentityByDefaultColumn),
                     Name = table.Column<string>(type: "text", nullable: false),
                     Descripcion = table.Column<string>(type: "text", nullable: false),
@@ -95,7 +95,7 @@ namespace appPolnice.Data.Migrations
                 },
                 constraints: table =>
                 {
-                    table.PrimaryKey("PK_t_producto", x => x.Id);
+                    table.PrimaryKey("PK_t_producto", x => x.id);
                 });
 
             migrationBuilder.CreateTable(
@@ -233,7 +233,7 @@ namespace appPolnice.Data.Migrations
                     id = table.Column<int>(type: "integer", nullable: false)
                         .Annotation("Npgsql:ValueGenerationStrategy", NpgsqlValueGenerationStrategy.IdentityByDefaultColumn),
                     UserID = table.Column<string>(type: "text", nullable: false),
-                    ProductoId = table.Column<int>(type: "integer", nullable: false),
+                    ProductoId = table.Column<int>(type: "integer", nullable: true),
                     Cantidad = table.Column<int>(type: "integer", nullable: false),
                     Precio = table.Column<decimal>(type: "numeric", nullable: false),
                     Status = table.Column<string>(type: "text", nullable: false)
@@ -245,8 +245,7 @@ namespace appPolnice.Data.Migrations
                         name: "FK_t_proforma_t_producto_ProductoId",
                         column: x => x.ProductoId,
                         principalTable: "t_producto",
-                        principalColumn: "Id",
-                        onDelete: ReferentialAction.Cascade);
+                        principalColumn: "id");
                 });
 
             migrationBuilder.CreateTable(
@@ -273,7 +272,7 @@ namespace appPolnice.Data.Migrations
                         name: "FK_t_detalle_pedido_t_producto_ProductoId",
                         column: x => x.ProductoId,
                         principalTable: "t_producto",
-                        principalColumn: "Id",
+                        principalColumn: "id",
                         onDelete: ReferentialAction.Cascade);
                 });
 

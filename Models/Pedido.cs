@@ -11,11 +11,14 @@ namespace appPolnice.Models
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         [Column("id")]
         public int Id { get; set; }
+
         public String UserID { get; set; }
+
         public Decimal Total { get; set; } 
+
         public Pago Pago { get; set; }
 
-         public Byte [] archivo {get; set;} = new Byte[1];
+        public Byte [] archivo {get; set;} = new Byte[1];
         
     }
 }

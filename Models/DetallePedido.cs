@@ -14,10 +14,16 @@ namespace appPolnice.Models
         [Column("id")]
         public int Id {get; set;}
 
+        [Column("Producto")] 
         public Producto Producto {get; set;}
-
+        
+        [Column("Cantidad")]
         public int Cantidad {get; set;}
+        
+        [Column("Precio")]
         public Decimal Precio { get; set; }
+        
+        [Column("Pedido")]
         public Pedido Pedido {get; set;}
 
         
