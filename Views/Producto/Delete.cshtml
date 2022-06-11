@@ -33,6 +33,7 @@
             @Html.DisplayNameFor(model => model.ImageName)
         </dt>
         <dd class = "col-sm-10">
+
             <img class="img-responsive" width="250" height="300"
                        src="/images/@Html.DisplayFor(model => model.ImageName)" alt="@Html.DisplayFor(model => model.ImageName)"  />
         </dd>
@@ -46,7 +47,7 @@
     
     <form asp-action="Delete">
         <input type="hidden" asp-for="Id" />
-        <input type="submit" value="Eliminar Producto" class="btn btn-danger" /> |
+        <input type="submit" value="Delete" class="btn btn-danger" /> |
         <a asp-action="Index">Volver a la Lista de Productos</a>
     </form>
 </div>
