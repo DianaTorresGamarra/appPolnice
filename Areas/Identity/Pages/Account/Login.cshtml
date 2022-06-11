@@ -4,7 +4,7 @@
 @{
     ViewData["Title"] = "Iniciar Sesión";
 }
-
+<body class="bodyLIn">
 <div class="create mt-5">
         <form id="account" method="post">
             
@@ -20,11 +20,11 @@
             </div>
             <div class="col-12 mb-3">
                 <label class="form-label" asp-for="Input.Password">Contraseña</label>
-                <input asp-for="Input.Password" class="form-control tamaño" id="password"/>
-
-                <input type="checkbox" onclick="mostrarPassword('password')">Mostrar contraseña                
+                <input asp-for="Input.Password" class="form-control tamaño" id="password" placeholder="Ingresa tu contraseña"/>
+                
+                <input type="checkbox" onclick="mostrar()" value="Mostrar Contraseña"> Mostrar contraseña                
                 <span asp-validation-for="Input.Password" class="text-danger"></span>
-
+            
             </div>
             <div class="col-12 mb-3">
                 <div class="checkbox">
@@ -60,3 +60,16 @@
 @section Scripts {
     <partial name="_ValidationScriptsPartial" />
 }
+<script type="text/javascript">
+    function mostrar(){
+         var tipo = document.getElementById("password");
+
+         if(tipo.type == 'password'){
+            tipo.type = 'text';
+         }else{
+            tipo.type = 'password';
+         }
+    }
+
+</script>
+</body>

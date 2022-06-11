@@ -4,10 +4,10 @@
     ViewData["Title"] = "Details";
 }
 
-<h1>Details</h1>
+<h1>Detalles del Producto Polnice</h1>
 
 <div>
-    <h4>Producto</h4>
+    <h4>Por medio de esta interfaz, podemos ver a detalle cada descripción de los productos Polnice</h4>
     <hr />
     <dl class="row">
         <dt class = "col-sm-2">
@@ -29,10 +29,11 @@
             @Html.DisplayFor(model => model.Precio)
         </dd>
         <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.ImageName)
+            <center><img class="img-responsive" width="250" height="300"
+                       src="/images/@Html.DisplayFor(model => model.ImageName)" alt="@Html.DisplayFor(model => model.ImageName)"  /></center>
         </dt>
         <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.ImageName)
+            
         </dd>
         <dt class = "col-sm-2">
             @Html.DisplayNameFor(model => model.Status)
@@ -43,6 +44,6 @@
     </dl>
 </div>
 <div>
-    <a asp-action="Edit" asp-route-id="@Model?.Id">Edit</a> |
-    <a asp-action="Index">Back to List</a>
+    <a asp-action="Edit" asp-route-id="@Model?.Id">Editar Producto</a> |
+    <a asp-action="Index">Volver a la Lista de Productos</a>
 </div>

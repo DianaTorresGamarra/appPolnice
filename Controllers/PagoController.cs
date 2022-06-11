@@ -43,26 +43,26 @@ namespace appPolnice.Controllers
             return View();
         }
 
-        [HttpPost]
-
-        public IActionResult Pagar(Pago pago){
+         public IActionResult Pagar(Pago pago){
             
             pago.PaymentDate = DateTime.UtcNow;
             pago.UserID = _userManager.GetUserName(User);
             _context.Add(pago);
+
 
             var itemsProforma = from o in _context.DataProforma select o;
             itemsProforma = itemsProforma.
                 Include(p => p.Producto).
                 Where(p => p.UserID.Equals(pago.UserID) && p.Status.Equals("PENDIENTE"));
              
-                    
+
             Pedido pedido = new Pedido();
             pedido.UserID = pago.UserID;
             pedido.Total = pago.MontoTotal;
+            pedido.archivo=GeneratePdfReport(itemsProforma.ToList());
             pedido.Pago = pago;
-           
             _context.Add(pedido);
+
 
             List<DetallePedido> itemsPedido = new List<DetallePedido>();
             foreach(var item in itemsProforma.ToList()){
@@ -84,14 +84,19 @@ namespace appPolnice.Controllers
 
             _context.SaveChanges();
 
+
+
+
+
             ViewData["Message"] = "¡PAGO REALIZADO!";
                      
             return RedirectToAction("Confirmacion");
 
 
         }
+        
 
-public byte[] GeneratePdfReport(List<Proforma> proformas)
+        public byte[] GeneratePdfReport(List<Proforma> proformas)
 {   
 
      var total = proformas.Sum(c => c.Cantidad * c.Precio );
@@ -105,18 +110,18 @@ public byte[] GeneratePdfReport(List<Proforma> proformas)
     <meta http-equiv=""X-UA-Compatible"" content=""IE=edge"">
     <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
     <link href=""https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css"" rel=""stylesheet"" integrity=""sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC"" crossorigin=""anonymous"">
-     <link rel=""stylesheet"" href=""~/css/pdf.css"">
+
     <title>Reporte de Pago</title>
 </head>
 <body>
  
     <div class=""container mt-10"">
        <div class=""flex-header"">
-        <img src=""~/img/logo.png"" alt="""">
+        <img src=""~/imG/logo.jpg"" alt="" width=""15%"">
         <div class=""texto"">
           <p> <span clas=""fw-bold"">N° Boleta: </span> 9484848484</p>
-          <p><span clas=""fw-bold"">Direccion: </span> Jr Ocaña 349</p>
-          <p><span clas=""fw-bold"">Ruc: </span> 39393939</p>
+          <p><span clas=""fw-bold"">Direccion: </span> Calle Camino Real 1801 Surco</p>
+          <p><span clas=""fw-bold"">Ruc: </span> 20603301871</p>
         </div>
     </div>
      <div class=""card mb-5"">
@@ -125,7 +130,7 @@ public byte[] GeneratePdfReport(List<Proforma> proformas)
             </div>
             <div class=""card-body"">
               <h5 class=""card-title"">Gracias por Confiar en nosotros</h5>
-              <p class=""card-text"">Cualquier consulta contactarnos al: 983878398</p>
+              <p class=""card-text"">Cualquier consulta contactarnos al: +511 652 1010 - 989 302 342</p>
             </div>
           </div>
     <table class=""table table-striped"">
@@ -147,6 +152,7 @@ public byte[] GeneratePdfReport(List<Proforma> proformas)
 
       proformas.ForEach( item => {
           
+
           nombre = item.Producto.Name;
           cantidad = item.Cantidad;
           precio = item.Precio;
@@ -211,6 +217,8 @@ globalSettings.PaperSize = PaperKind.A4;
  objectSettings.HeaderSettings = headerSettings;
  objectSettings.FooterSettings = footerSettings;
  objectSettings.WebSettings = webSettings;
+
+ 
  HtmlToPdfDocument htmlToPdfDocument = new HtmlToPdfDocument()
  {
       GlobalSettings = globalSettings,
@@ -218,6 +226,5 @@ globalSettings.PaperSize = PaperKind.A4;
  };
   return _converter.Convert(htmlToPdfDocument);
 }
-        
     }
 }

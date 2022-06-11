@@ -12,8 +12,8 @@ using appPolnice.Data;
 namespace appPolnice.Data.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20220610091247_AllMigration")]
-    partial class AllMigration
+    [Migration("20220611055704_InitialMigration")]
+    partial class InitialMigration
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
