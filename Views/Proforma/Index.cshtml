@@ -52,9 +52,9 @@
                 @Html.DisplayFor(modelItem => item.Precio)                
             </td>
             <td>
-                 <a asp-action="Edit" asp-route-id="@item.Id"><img hspace="10" src="/images/editar.png" width="15px" heigh="15px"></a> 
+                 <a asp-action="Edit" asp-route-id="@item.Id"><button type="button" class="btn btn-outline-success">Editar</button></a> 
                 
-                <a asp-action="Delete" asp-route-id="@item.Id" onclick="return confirm('¿Desea eliminar el ítem del carrito?')"><img src="/images/eliminar.png" width="15px" heigh="15px"></a>
+                <a asp-action="Delete" asp-route-id="@item.Id" onclick="return confirm('¿Desea eliminar el ítem del carrito?')"><button type="button" class="btn btn-outline-danger">Eliminar</button></a>
             </td>
         </tr>
 }
